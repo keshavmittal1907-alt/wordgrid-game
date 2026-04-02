@@ -63,7 +63,7 @@ function App() {
                 className="w-full bg-blue-600/20 hover:bg-blue-600/30 text-white rounded-2xl p-6 font-bold flex flex-col items-center gap-2 transition-all transform hover:scale-[1.02] active:scale-95 shadow-lg border border-blue-500/30"
               >
                 <Plus size={24} className="text-blue-400" />
-                <span className="text-xl">Start an Arena</span>
+                <span className="text-xl">Start a Game</span>
                 <span className="text-xs font-light text-blue-300/60 uppercase tracking-[0.2em]">Create a new game</span>
               </button>
               
@@ -72,7 +72,7 @@ function App() {
                 className="w-full glass-panel-interactive border-white/10 rounded-2xl p-6 font-bold flex flex-col items-center gap-2 transition-all transform hover:scale-[1.02] active:scale-95 shadow-lg"
               >
                 <LogIn size={24} className="text-slate-400" />
-                <span className="text-xl text-white">Join an Arena</span>
+                <span className="text-xl text-white">Join a Game</span>
                 <span className="text-xs font-light text-slate-400 uppercase tracking-[0.2em]">Enter with a code</span>
               </button>
             </div>
@@ -83,7 +83,7 @@ function App() {
                   <X size={20} />
                 </button>
                 <span className="font-bold uppercase tracking-widest text-xs text-blue-300/80">
-                  {joinMode === 'create' ? 'Creating New Arena' : 'Joining Existing Arena'}
+                  {joinMode === 'create' ? 'Creating New Game' : 'Joining Existing Game'}
                 </span>
               </div>
 
@@ -102,7 +102,7 @@ function App() {
               
               {joinMode === 'join' && (
                 <div className="space-y-2">
-                  <label className="text-[11px] font-bold text-blue-400/80 uppercase tracking-[0.2em] ml-2">Arena Code</label>
+                  <label className="text-[11px] font-bold text-blue-400/80 uppercase tracking-[0.2em] ml-2">Game Code</label>
                   <input
                     type="text"
                     required
@@ -165,7 +165,7 @@ function App() {
                   type="submit"
                   className="w-full bg-white text-black rounded-2xl py-4 font-bold flex items-center justify-center gap-2 transition-all transform hover:scale-[1.02] active:scale-95 shadow-xl shadow-white/5"
                 >
-                  {joinMode === 'create' ? 'Create Arena' : 'Enter Arena'} <ChevronRight size={18} />
+                  {joinMode === 'create' ? 'Create Game' : 'Enter Game'} <ChevronRight size={18} />
                 </button>
               </div>
             </form>
@@ -233,7 +233,7 @@ function App() {
             {isHost && room.state !== 'lobby' && (
               <button 
                 onClick={() => socket.emit('end_game', { roomId: room.id })}
-                title="End Arena"
+                title="End Game"
                 className="w-10 h-10 flex items-center justify-center rounded-2xl bg-rose-500/10 text-rose-500 border border-rose-500/20 hover:bg-rose-500 hover:text-white transition-all shadow-lg active:scale-95"
               >
                 <X size={20} strokeWidth={3} />
@@ -255,7 +255,7 @@ function App() {
               <p className="text-slate-400 text-lg max-w-md mb-10 leading-relaxed font-light">
                 {isHost 
                   ? "Choose your team and wait for the match to begin. An Explainer will be randomly selected for your team each turn."
-                  : "Hang tight! Team members are being assigned. The host will start the arena soon."}
+                  : "Hang tight! Team members are being assigned. The host will start the game soon."}
               </p>
               
               {isHost ? (
@@ -331,7 +331,7 @@ function App() {
                     className="group w-full relative px-12 py-5 bg-white text-slate-900 rounded-2xl font-black text-xl flex items-center justify-center gap-3 transition-all transform hover:scale-[1.03] active:scale-95 shadow-[0_20px_50px_rgba(255,255,255,0.2)] overflow-hidden"
                   >
                     <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/50 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite]" />
-                    <Play size={24} fill="currentColor" /> Start Arena
+                    <Play size={24} fill="currentColor" /> Start Game
                   </button>
                 </div>
               ) : (

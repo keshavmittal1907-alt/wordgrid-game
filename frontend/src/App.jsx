@@ -54,7 +54,6 @@ function App() {
             <h1 className="text-5xl font-black mb-3 tracking-tighter text-white drop-shadow-sm uppercase">
               WordGrid.gg
             </h1>
-            <p className="text-slate-400 font-medium tracking-wide">The Arena of Words</p>
           </div>
 
           {joinMode === 'select' ? (

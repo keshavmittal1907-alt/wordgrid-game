@@ -1,23 +1,87 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Arial', sans-serif;
+  
+  --color-indigo-500: #6366f1;
+  --color-fuchsia-500: #d946ef;
+}
 
 @layer base {
   body {
-    @apply bg-slate-950 text-white min-h-screen antialiased selection:bg-fuchsia-500/30 overflow-x-hidden;
+    background-color: #0f0f12;
+    color: #e2e8f0;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
   }
 }
 
-@layer utilities {
-  .glass-panel {
-    @apply bg-white/[0.03] backdrop-blur-2xl border border-white/10 shadow-[0_8px_32px_0_rgba(0,0,0,0.3)];
-  }
+@utility glass-panel {
+  background-color: rgba(26, 26, 31, 0.8);
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+@utility glass-panel-interactive {
+  @apply glass-panel transition-all duration-300;
   
-  .glass-panel-interactive {
-    @apply glass-panel hover:bg-white/[0.06] hover:border-white/20 transition-all duration-300;
+  &:hover {
+    background-color: rgba(30, 30, 36, 0.9);
+    border-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
   }
-  
-  .text-gradient {
-    @apply bg-clip-text text-transparent bg-gradient-to-r;
-  }
+}
+
+@utility text-gradient {
+  background-clip: text;
+  color: white;
+}
+
+@utility animate-blob {
+  animation: blob 7s infinite;
+}
+
+@utility animate-pulse-glow {
+  animation: pulse-glow 2s infinite;
+}
+
+@utility animate-shimmer {
+  animation: shimmer 2s linear infinite;
+}
+
+@utility animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+@utility animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+@utility animate-fade-in-up {
+  animation: fade-in-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; filter: drop-shadow(0 0 5px rgba(217, 70, 239, 0.5)); }
+  50% { opacity: 0.6; filter: drop-shadow(0 0 15px rgba(217, 70, 239, 0.8)); }
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
 }

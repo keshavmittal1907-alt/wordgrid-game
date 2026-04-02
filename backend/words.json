@@ -1,0 +1,6002 @@
+[
+  {
+    "word": "Apple",
+    "points": 9
+  },
+  {
+    "word": "Bread",
+    "points": 10
+  },
+  {
+    "word": "Cat",
+    "points": 6
+  },
+  {
+    "word": "Dog",
+    "points": 8
+  },
+  {
+    "word": "Egg",
+    "points": 12
+  },
+  {
+    "word": "Fish",
+    "points": 5
+  },
+  {
+    "word": "Gold",
+    "points": 9
+  },
+  {
+    "word": "Hat",
+    "points": 12
+  },
+  {
+    "word": "Ink",
+    "points": 6
+  },
+  {
+    "word": "Jam",
+    "points": 8
+  },
+  {
+    "word": "King",
+    "points": 6
+  },
+  {
+    "word": "Leaf",
+    "points": 9
+  },
+  {
+    "word": "Milk",
+    "points": 7
+  },
+  {
+    "word": "Net",
+    "points": 10
+  },
+  {
+    "word": "Oil",
+    "points": 8
+  },
+  {
+    "word": "Pen",
+    "points": 11
+  },
+  {
+    "word": "Queen",
+    "points": 8
+  },
+  {
+    "word": "Run",
+    "points": 8
+  },
+  {
+    "word": "Sun",
+    "points": 12
+  },
+  {
+    "word": "Tree",
+    "points": 5
+  },
+  {
+    "word": "Up",
+    "points": 10
+  },
+  {
+    "word": "Van",
+    "points": 7
+  },
+  {
+    "word": "Web",
+    "points": 8
+  },
+  {
+    "word": "Xray",
+    "points": 12
+  },
+  {
+    "word": "Yes",
+    "points": 7
+  },
+  {
+    "word": "Zip",
+    "points": 11
+  },
+  {
+    "word": "Blue",
+    "points": 6
+  },
+  {
+    "word": "Red",
+    "points": 9
+  },
+  {
+    "word": "Green",
+    "points": 12
+  },
+  {
+    "word": "Pink",
+    "points": 8
+  },
+  {
+    "word": "Black",
+    "points": 8
+  },
+  {
+    "word": "White",
+    "points": 6
+  },
+  {
+    "word": "Grey",
+    "points": 11
+  },
+  {
+    "word": "Brown",
+    "points": 11
+  },
+  {
+    "word": "Cold",
+    "points": 11
+  },
+  {
+    "word": "Hot",
+    "points": 8
+  },
+  {
+    "word": "Fast",
+    "points": 11
+  },
+  {
+    "word": "Slow",
+    "points": 8
+  },
+  {
+    "word": "High",
+    "points": 6
+  },
+  {
+    "word": "Low",
+    "points": 5
+  },
+  {
+    "word": "Soft",
+    "points": 7
+  },
+  {
+    "word": "Hard",
+    "points": 12
+  },
+  {
+    "word": "Near",
+    "points": 8
+  },
+  {
+    "word": "Far",
+    "points": 11
+  },
+  {
+    "word": "Big",
+    "points": 9
+  },
+  {
+    "word": "Small",
+    "points": 6
+  },
+  {
+    "word": "Book",
+    "points": 5
+  },
+  {
+    "word": "Desk",
+    "points": 9
+  },
+  {
+    "word": "Door",
+    "points": 7
+  },
+  {
+    "word": "Wall",
+    "points": 10
+  },
+  {
+    "word": "Room",
+    "points": 5
+  },
+  {
+    "word": "Bed",
+    "points": 10
+  },
+  {
+    "word": "Salt",
+    "points": 9
+  },
+  {
+    "word": "Ice",
+    "points": 5
+  },
+  {
+    "word": "Cake",
+    "points": 9
+  },
+  {
+    "word": "Cup",
+    "points": 9
+  },
+  {
+    "word": "Ball",
+    "points": 7
+  },
+  {
+    "word": "Bat",
+    "points": 5
+  },
+  {
+    "word": "Key",
+    "points": 6
+  },
+  {
+    "word": "Map",
+    "points": 7
+  },
+  {
+    "word": "Fan",
+    "points": 8
+  },
+  {
+    "word": "Bus",
+    "points": 12
+  },
+  {
+    "word": "Train",
+    "points": 5
+  },
+  {
+    "word": "Car",
+    "points": 6
+  },
+  {
+    "word": "Ship",
+    "points": 11
+  },
+  {
+    "word": "Bike",
+    "points": 10
+  },
+  {
+    "word": "Hand",
+    "points": 5
+  },
+  {
+    "word": "Foot",
+    "points": 5
+  },
+  {
+    "word": "Head",
+    "points": 11
+  },
+  {
+    "word": "Eye",
+    "points": 9
+  },
+  {
+    "word": "Ear",
+    "points": 9
+  },
+  {
+    "word": "Nose",
+    "points": 5
+  },
+  {
+    "word": "Hair",
+    "points": 8
+  },
+  {
+    "word": "Skin",
+    "points": 12
+  },
+  {
+    "word": "City",
+    "points": 7
+  },
+  {
+    "word": "Town",
+    "points": 8
+  },
+  {
+    "word": "Land",
+    "points": 5
+  },
+  {
+    "word": "Wind",
+    "points": 7
+  },
+  {
+    "word": "Rain",
+    "points": 7
+  },
+  {
+    "word": "Snow",
+    "points": 7
+  },
+  {
+    "word": "Fire",
+    "points": 5
+  },
+  {
+    "word": "Earth",
+    "points": 7
+  },
+  {
+    "word": "Moon",
+    "points": 8
+  },
+  {
+    "word": "Star",
+    "points": 11
+  },
+  {
+    "word": "Cloud",
+    "points": 9
+  },
+  {
+    "word": "Duck",
+    "points": 6
+  },
+  {
+    "word": "Lion",
+    "points": 8
+  },
+  {
+    "word": "Bear",
+    "points": 10
+  },
+  {
+    "word": "Wolf",
+    "points": 11
+  },
+  {
+    "word": "Deer",
+    "points": 11
+  },
+  {
+    "word": "Bird",
+    "points": 8
+  },
+  {
+    "word": "Frog",
+    "points": 7
+  },
+  {
+    "word": "Ape",
+    "points": 5
+  },
+  {
+    "word": "Ant",
+    "points": 8
+  },
+  {
+    "word": "Bee",
+    "points": 9
+  },
+  {
+    "word": "Fly",
+    "points": 10
+  },
+  {
+    "word": "Day",
+    "points": 10
+  },
+  {
+    "word": "Week",
+    "points": 7
+  },
+  {
+    "word": "Year",
+    "points": 10
+  },
+  {
+    "word": "Time",
+    "points": 5
+  },
+  {
+    "word": "Note",
+    "points": 5
+  },
+  {
+    "word": "List",
+    "points": 7
+  },
+  {
+    "word": "Card",
+    "points": 7
+  },
+  {
+    "word": "Bell",
+    "points": 6
+  },
+  {
+    "word": "Drum",
+    "points": 7
+  },
+  {
+    "word": "Song",
+    "points": 12
+  },
+  {
+    "word": "Word",
+    "points": 10
+  },
+  {
+    "word": "Page",
+    "points": 5
+  },
+  {
+    "word": "Dish",
+    "points": 8
+  },
+  {
+    "word": "Fork",
+    "points": 8
+  },
+  {
+    "word": "Plate",
+    "points": 12
+  },
+  {
+    "word": "Soap",
+    "points": 8
+  },
+  {
+    "word": "Spoon",
+    "points": 5
+  },
+  {
+    "word": "Towel",
+    "points": 9
+  },
+  {
+    "word": "Bowl",
+    "points": 6
+  },
+  {
+    "word": "Pan",
+    "points": 6
+  },
+  {
+    "word": "Pot",
+    "points": 7
+  },
+  {
+    "word": "Lamp",
+    "points": 11
+  },
+  {
+    "word": "Rug",
+    "points": 6
+  },
+  {
+    "word": "Box",
+    "points": 10
+  },
+  {
+    "word": "Bag",
+    "points": 5
+  },
+  {
+    "word": "Jar",
+    "points": 9
+  },
+  {
+    "word": "Ring",
+    "points": 6
+  },
+  {
+    "word": "Rope",
+    "points": 12
+  },
+  {
+    "word": "Belt",
+    "points": 6
+  },
+  {
+    "word": "Shoe",
+    "points": 10
+  },
+  {
+    "word": "Sock",
+    "points": 11
+  },
+  {
+    "word": "Vest",
+    "points": 8
+  },
+  {
+    "word": "Coat",
+    "points": 12
+  },
+  {
+    "word": "Shirt",
+    "points": 8
+  },
+  {
+    "word": "Pant",
+    "points": 8
+  },
+  {
+    "word": "Tie",
+    "points": 10
+  },
+  {
+    "word": "Flag",
+    "points": 5
+  },
+  {
+    "word": "Coin",
+    "points": 10
+  },
+  {
+    "word": "Nail",
+    "points": 11
+  },
+  {
+    "word": "Hammer",
+    "points": 11
+  },
+  {
+    "word": "Saw",
+    "points": 5
+  },
+  {
+    "word": "Nut",
+    "points": 10
+  },
+  {
+    "word": "Bolt",
+    "points": 12
+  },
+  {
+    "word": "Glue",
+    "points": 10
+  },
+  {
+    "word": "Wire",
+    "points": 10
+  },
+  {
+    "word": "Bush",
+    "points": 11
+  },
+  {
+    "word": "Stem",
+    "points": 9
+  },
+  {
+    "word": "Seed",
+    "points": 9
+  },
+  {
+    "word": "Root",
+    "points": 12
+  },
+  {
+    "word": "Meat",
+    "points": 5
+  },
+  {
+    "word": "Rice",
+    "points": 9
+  },
+  {
+    "word": "Soup",
+    "points": 8
+  },
+  {
+    "word": "Tea",
+    "points": 11
+  },
+  {
+    "word": "Wine",
+    "points": 11
+  },
+  {
+    "word": "Beer",
+    "points": 8
+  },
+  {
+    "word": "Juice",
+    "points": 7
+  },
+  {
+    "word": "Water",
+    "points": 7
+  },
+  {
+    "word": "Food",
+    "points": 10
+  },
+  {
+    "word": "Fruit",
+    "points": 6
+  },
+  {
+    "word": "Meal",
+    "points": 11
+  },
+  {
+    "word": "Cook",
+    "points": 6
+  },
+  {
+    "word": "Eat",
+    "points": 5
+  },
+  {
+    "word": "Wash",
+    "points": 8
+  },
+  {
+    "word": "Sing",
+    "points": 10
+  },
+  {
+    "word": "Dance",
+    "points": 9
+  },
+  {
+    "word": "Jump",
+    "points": 10
+  },
+  {
+    "word": "Play",
+    "points": 10
+  },
+  {
+    "word": "Walk",
+    "points": 10
+  },
+  {
+    "word": "Stop",
+    "points": 6
+  },
+  {
+    "word": "Open",
+    "points": 9
+  },
+  {
+    "word": "Close",
+    "points": 10
+  },
+  {
+    "word": "Push",
+    "points": 6
+  },
+  {
+    "word": "Pull",
+    "points": 9
+  },
+  {
+    "word": "Give",
+    "points": 11
+  },
+  {
+    "word": "Take",
+    "points": 7
+  },
+  {
+    "word": "Keep",
+    "points": 7
+  },
+  {
+    "word": "Hold",
+    "points": 5
+  },
+  {
+    "word": "Show",
+    "points": 10
+  },
+  {
+    "word": "Tell",
+    "points": 12
+  },
+  {
+    "word": "Read",
+    "points": 8
+  },
+  {
+    "word": "Hear",
+    "points": 5
+  },
+  {
+    "word": "Look",
+    "points": 12
+  },
+  {
+    "word": "Find",
+    "points": 11
+  },
+  {
+    "word": "Lose",
+    "points": 9
+  },
+  {
+    "word": "Win",
+    "points": 6
+  },
+  {
+    "word": "Try",
+    "points": 11
+  },
+  {
+    "word": "Ask",
+    "points": 7
+  },
+  {
+    "word": "Say",
+    "points": 11
+  },
+  {
+    "word": "Call",
+    "points": 5
+  },
+  {
+    "word": "Game",
+    "points": 6
+  },
+  {
+    "word": "Toy",
+    "points": 9
+  },
+  {
+    "word": "Boat",
+    "points": 10
+  },
+  {
+    "word": "Plane",
+    "points": 6
+  },
+  {
+    "word": "Roof",
+    "points": 8
+  },
+  {
+    "word": "Floor",
+    "points": 11
+  },
+  {
+    "word": "Gate",
+    "points": 5
+  },
+  {
+    "word": "Park",
+    "points": 11
+  },
+  {
+    "word": "Shop",
+    "points": 7
+  },
+  {
+    "word": "Hill",
+    "points": 11
+  },
+  {
+    "word": "Lake",
+    "points": 12
+  },
+  {
+    "word": "Sea",
+    "points": 5
+  },
+  {
+    "word": "Cave",
+    "points": 7
+  },
+  {
+    "word": "Pond",
+    "points": 10
+  },
+  {
+    "word": "Bank",
+    "points": 9
+  },
+  {
+    "word": "Road",
+    "points": 8
+  },
+  {
+    "word": "Rail",
+    "points": 6
+  },
+  {
+    "word": "Way",
+    "points": 12
+  },
+  {
+    "word": "Part",
+    "points": 12
+  },
+  {
+    "word": "Half",
+    "points": 9
+  },
+  {
+    "word": "All",
+    "points": 11
+  },
+  {
+    "word": "Each",
+    "points": 8
+  },
+  {
+    "word": "Some",
+    "points": 5
+  },
+  {
+    "word": "One",
+    "points": 6
+  },
+  {
+    "word": "Two",
+    "points": 8
+  },
+  {
+    "word": "Ten",
+    "points": 6
+  },
+  {
+    "word": "First",
+    "points": 7
+  },
+  {
+    "word": "Last",
+    "points": 6
+  },
+  {
+    "word": "Next",
+    "points": 12
+  },
+  {
+    "word": "Good",
+    "points": 5
+  },
+  {
+    "word": "Bad",
+    "points": 12
+  },
+  {
+    "word": "New",
+    "points": 12
+  },
+  {
+    "word": "Old",
+    "points": 5
+  },
+  {
+    "word": "Rich",
+    "points": 5
+  },
+  {
+    "word": "Poor",
+    "points": 8
+  },
+  {
+    "word": "Kind",
+    "points": 9
+  },
+  {
+    "word": "Fair",
+    "points": 8
+  },
+  {
+    "word": "Wise",
+    "points": 6
+  },
+  {
+    "word": "Long",
+    "points": 8
+  },
+  {
+    "word": "Short",
+    "points": 10
+  },
+  {
+    "word": "Wide",
+    "points": 6
+  },
+  {
+    "word": "Deep",
+    "points": 11
+  },
+  {
+    "word": "Full",
+    "points": 8
+  },
+  {
+    "word": "Clear",
+    "points": 11
+  },
+  {
+    "word": "Dry",
+    "points": 10
+  },
+  {
+    "word": "Wet",
+    "points": 8
+  },
+  {
+    "word": "Thin",
+    "points": 8
+  },
+  {
+    "word": "Thick",
+    "points": 8
+  },
+  {
+    "word": "Top",
+    "points": 10
+  },
+  {
+    "word": "Side",
+    "points": 5
+  },
+  {
+    "word": "Back",
+    "points": 6
+  },
+  {
+    "word": "End",
+    "points": 11
+  },
+  {
+    "word": "Base",
+    "points": 11
+  },
+  {
+    "word": "Body",
+    "points": 11
+  },
+  {
+    "word": "Mind",
+    "points": 11
+  },
+  {
+    "word": "Soul",
+    "points": 11
+  },
+  {
+    "word": "Life",
+    "points": 6
+  },
+  {
+    "word": "Death",
+    "points": 7
+  },
+  {
+    "word": "Love",
+    "points": 10
+  },
+  {
+    "word": "Hate",
+    "points": 9
+  },
+  {
+    "word": "Hope",
+    "points": 9
+  },
+  {
+    "word": "Fear",
+    "points": 5
+  },
+  {
+    "word": "Pain",
+    "points": 12
+  },
+  {
+    "word": "Joy",
+    "points": 11
+  },
+  {
+    "word": "Peace",
+    "points": 11
+  },
+  {
+    "word": "War",
+    "points": 9
+  },
+  {
+    "word": "Dark",
+    "points": 11
+  },
+  {
+    "word": "Light",
+    "points": 12
+  },
+  {
+    "word": "Cool",
+    "points": 5
+  },
+  {
+    "word": "Warm",
+    "points": 11
+  },
+  {
+    "word": "Summer",
+    "points": 7
+  },
+  {
+    "word": "Winter",
+    "points": 11
+  },
+  {
+    "word": "Spring",
+    "points": 12
+  },
+  {
+    "word": "Fall",
+    "points": 8
+  },
+  {
+    "word": "Morning",
+    "points": 12
+  },
+  {
+    "word": "Night",
+    "points": 11
+  },
+  {
+    "word": "Lunch",
+    "points": 6
+  },
+  {
+    "word": "Dinner",
+    "points": 12
+  },
+  {
+    "word": "Supper",
+    "points": 6
+  },
+  {
+    "word": "Beach",
+    "points": 12
+  },
+  {
+    "word": "Coast",
+    "points": 11
+  },
+  {
+    "word": "Valley",
+    "points": 8
+  },
+  {
+    "word": "Desert",
+    "points": 9
+  },
+  {
+    "word": "Island",
+    "points": 7
+  },
+  {
+    "word": "Mountain",
+    "points": 6
+  },
+  {
+    "word": "Forest",
+    "points": 6
+  },
+  {
+    "word": "Jungle",
+    "points": 7
+  },
+  {
+    "word": "Stone",
+    "points": 6
+  },
+  {
+    "word": "Rock",
+    "points": 7
+  },
+  {
+    "word": "Sand",
+    "points": 9
+  },
+  {
+    "word": "Dirt",
+    "points": 9
+  },
+  {
+    "word": "Mud",
+    "points": 12
+  },
+  {
+    "word": "Dust",
+    "points": 9
+  },
+  {
+    "word": "Smoke",
+    "points": 11
+  },
+  {
+    "word": "Mist",
+    "points": 9
+  },
+  {
+    "word": "Wave",
+    "points": 10
+  },
+  {
+    "word": "Flow",
+    "points": 10
+  },
+  {
+    "word": "Storm",
+    "points": 8
+  },
+  {
+    "word": "Voice",
+    "points": 8
+  },
+  {
+    "word": "Sound",
+    "points": 6
+  },
+  {
+    "word": "Noise",
+    "points": 12
+  },
+  {
+    "word": "Shape",
+    "points": 10
+  },
+  {
+    "word": "Size",
+    "points": 8
+  },
+  {
+    "word": "Space",
+    "points": 9
+  },
+  {
+    "word": "Level",
+    "points": 11
+  },
+  {
+    "word": "Point",
+    "points": 5
+  },
+  {
+    "word": "Area",
+    "points": 8
+  },
+  {
+    "word": "Line",
+    "points": 11
+  },
+  {
+    "word": "Edge",
+    "points": 12
+  },
+  {
+    "word": "Dot",
+    "points": 11
+  },
+  {
+    "word": "Dash",
+    "points": 5
+  },
+  {
+    "word": "Cross",
+    "points": 6
+  },
+  {
+    "word": "Square",
+    "points": 9
+  },
+  {
+    "word": "Round",
+    "points": 10
+  },
+  {
+    "word": "Flat",
+    "points": 9
+  },
+  {
+    "word": "Sharp",
+    "points": 5
+  },
+  {
+    "word": "Smooth",
+    "points": 10
+  },
+  {
+    "word": "Rough",
+    "points": 10
+  },
+  {
+    "word": "Clean",
+    "points": 9
+  },
+  {
+    "word": "Dirty",
+    "points": 5
+  },
+  {
+    "word": "Fresh",
+    "points": 11
+  },
+  {
+    "word": "Pure",
+    "points": 8
+  },
+  {
+    "word": "True",
+    "points": 12
+  },
+  {
+    "word": "False",
+    "points": 10
+  },
+  {
+    "word": "Right",
+    "points": 8
+  },
+  {
+    "word": "Wrong",
+    "points": 9
+  },
+  {
+    "word": "Easy",
+    "points": 9
+  },
+  {
+    "word": "Weak",
+    "points": 9
+  },
+  {
+    "word": "Strong",
+    "points": 10
+  },
+  {
+    "word": "Bright",
+    "points": 8
+  },
+  {
+    "word": "Sweet",
+    "points": 5
+  },
+  {
+    "word": "Sour",
+    "points": 8
+  },
+  {
+    "word": "Bitter",
+    "points": 9
+  },
+  {
+    "word": "Happy",
+    "points": 10
+  },
+  {
+    "word": "Sad",
+    "points": 11
+  },
+  {
+    "word": "Angry",
+    "points": 10
+  },
+  {
+    "word": "Calm",
+    "points": 10
+  },
+  {
+    "word": "Brave",
+    "points": 10
+  },
+  {
+    "word": "Shy",
+    "points": 6
+  },
+  {
+    "word": "Proud",
+    "points": 6
+  },
+  {
+    "word": "Heavy",
+    "points": 7
+  },
+  {
+    "word": "Empty",
+    "points": 11
+  },
+  {
+    "word": "Young",
+    "points": 9
+  },
+  {
+    "word": "Quick",
+    "points": 7
+  },
+  {
+    "word": "Smart",
+    "points": 9
+  },
+  {
+    "word": "Quiet",
+    "points": 10
+  },
+  {
+    "word": "Loud",
+    "points": 8
+  },
+  {
+    "word": "Nice",
+    "points": 12
+  },
+  {
+    "word": "Lazy",
+    "points": 7
+  },
+  {
+    "word": "Busy",
+    "points": 7
+  },
+  {
+    "word": "Shallow",
+    "points": 5
+  },
+  {
+    "word": "Narrow",
+    "points": 8
+  },
+  {
+    "word": "Large",
+    "points": 10
+  },
+  {
+    "word": "Little",
+    "points": 9
+  },
+  {
+    "word": "Huge",
+    "points": 10
+  },
+  {
+    "word": "Tiny",
+    "points": 10
+  },
+  {
+    "word": "Tall",
+    "points": 8
+  },
+  {
+    "word": "Broad",
+    "points": 12
+  },
+  {
+    "word": "Bent",
+    "points": 10
+  },
+  {
+    "word": "Torn",
+    "points": 8
+  },
+  {
+    "word": "Sold",
+    "points": 9
+  },
+  {
+    "word": "Bought",
+    "points": 8
+  },
+  {
+    "word": "Dead",
+    "points": 9
+  },
+  {
+    "word": "Alive",
+    "points": 7
+  },
+  {
+    "word": "Born",
+    "points": 6
+  },
+  {
+    "word": "Tired",
+    "points": 8
+  },
+  {
+    "word": "Sleep",
+    "points": 11
+  },
+  {
+    "word": "Dream",
+    "points": 11
+  },
+  {
+    "word": "Wake",
+    "points": 12
+  },
+  {
+    "word": "Work",
+    "points": 11
+  },
+  {
+    "word": "Swim",
+    "points": 9
+  },
+  {
+    "word": "Dig",
+    "points": 12
+  },
+  {
+    "word": "Fill",
+    "points": 12
+  },
+  {
+    "word": "Cut",
+    "points": 6
+  },
+  {
+    "word": "Burn",
+    "points": 9
+  },
+  {
+    "word": "Fix",
+    "points": 8
+  },
+  {
+    "word": "Lift",
+    "points": 11
+  },
+  {
+    "word": "Drop",
+    "points": 7
+  },
+  {
+    "word": "Send",
+    "points": 9
+  },
+  {
+    "word": "Bring",
+    "points": 8
+  },
+  {
+    "word": "Help",
+    "points": 8
+  },
+  {
+    "word": "Need",
+    "points": 8
+  },
+  {
+    "word": "Want",
+    "points": 9
+  },
+  {
+    "word": "Like",
+    "points": 6
+  },
+  {
+    "word": "Wish",
+    "points": 6
+  },
+  {
+    "word": "Care",
+    "points": 11
+  },
+  {
+    "word": "Mouth",
+    "points": 6
+  },
+  {
+    "word": "Face",
+    "points": 8
+  },
+  {
+    "word": "Arm",
+    "points": 8
+  },
+  {
+    "word": "Leg",
+    "points": 7
+  },
+  {
+    "word": "Bone",
+    "points": 11
+  },
+  {
+    "word": "Blood",
+    "points": 8
+  },
+  {
+    "word": "Wood",
+    "points": 8
+  },
+  {
+    "word": "Grass",
+    "points": 10
+  },
+  {
+    "word": "Peak",
+    "points": 8
+  },
+  {
+    "word": "Hole",
+    "points": 6
+  },
+  {
+    "word": "Path",
+    "points": 7
+  },
+  {
+    "word": "Street",
+    "points": 10
+  },
+  {
+    "word": "Bridge",
+    "points": 7
+  },
+  {
+    "word": "Chair",
+    "points": 9
+  },
+  {
+    "word": "Table",
+    "points": 5
+  },
+  {
+    "word": "Broom",
+    "points": 6
+  },
+  {
+    "word": "Silk",
+    "points": 8
+  },
+  {
+    "word": "Wool",
+    "points": 5
+  },
+  {
+    "word": "Iron",
+    "points": 11
+  },
+  {
+    "word": "Steel",
+    "points": 5
+  },
+  {
+    "word": "Zinc",
+    "points": 9
+  },
+  {
+    "word": "Copper",
+    "points": 12
+  },
+  {
+    "word": "Silver",
+    "points": 12
+  },
+  {
+    "word": "Screw",
+    "points": 7
+  },
+  {
+    "word": "Pipe",
+    "points": 6
+  },
+  {
+    "word": "Hose",
+    "points": 12
+  },
+  {
+    "word": "Sign",
+    "points": 9
+  },
+  {
+    "word": "Mark",
+    "points": 7
+  },
+  {
+    "word": "File",
+    "points": 10
+  },
+  {
+    "word": "Bill",
+    "points": 7
+  },
+  {
+    "word": "Mart",
+    "points": 7
+  },
+  {
+    "word": "Farm",
+    "points": 6
+  },
+  {
+    "word": "Barn",
+    "points": 9
+  },
+  {
+    "word": "Plow",
+    "points": 5
+  },
+  {
+    "word": "Crop",
+    "points": 9
+  },
+  {
+    "word": "Corn",
+    "points": 12
+  },
+  {
+    "word": "Wheat",
+    "points": 8
+  },
+  {
+    "word": "Bean",
+    "points": 8
+  },
+  {
+    "word": "Hare",
+    "points": 12
+  },
+  {
+    "word": "Worm",
+    "points": 8
+  },
+  {
+    "word": "Crab",
+    "points": 11
+  },
+  {
+    "word": "Swan",
+    "points": 5
+  },
+  {
+    "word": "Nest",
+    "points": 8
+  },
+  {
+    "word": "Tail",
+    "points": 5
+  },
+  {
+    "word": "Wing",
+    "points": 7
+  },
+  {
+    "word": "Horn",
+    "points": 8
+  },
+  {
+    "word": "Hoof",
+    "points": 6
+  },
+  {
+    "word": "Bark",
+    "points": 6
+  },
+  {
+    "word": "Wild",
+    "points": 9
+  },
+  {
+    "word": "Tame",
+    "points": 10
+  },
+  {
+    "word": "Gray",
+    "points": 12
+  },
+  {
+    "word": "Baby",
+    "points": 5
+  },
+  {
+    "word": "Man",
+    "points": 9
+  },
+  {
+    "word": "Boy",
+    "points": 11
+  },
+  {
+    "word": "Girl",
+    "points": 9
+  },
+  {
+    "word": "Lady",
+    "points": 10
+  },
+  {
+    "word": "Child",
+    "points": 11
+  },
+  {
+    "word": "Wife",
+    "points": 12
+  },
+  {
+    "word": "Male",
+    "points": 9
+  },
+  {
+    "word": "Friend",
+    "points": 10
+  },
+  {
+    "word": "Enemy",
+    "points": 6
+  },
+  {
+    "word": "Hero",
+    "points": 5
+  },
+  {
+    "word": "Host",
+    "points": 10
+  },
+  {
+    "word": "Crowd",
+    "points": 8
+  },
+  {
+    "word": "Human",
+    "points": 5
+  },
+  {
+    "word": "World",
+    "points": 6
+  },
+  {
+    "word": "Sky",
+    "points": 5
+  },
+  {
+    "word": "North",
+    "points": 8
+  },
+  {
+    "word": "South",
+    "points": 11
+  },
+  {
+    "word": "East",
+    "points": 7
+  },
+  {
+    "word": "West",
+    "points": 7
+  },
+  {
+    "word": "Left",
+    "points": 10
+  },
+  {
+    "word": "Front",
+    "points": 12
+  },
+  {
+    "word": "Inside",
+    "points": 5
+  },
+  {
+    "word": "Outside",
+    "points": 6
+  },
+  {
+    "word": "Above",
+    "points": 7
+  },
+  {
+    "word": "Below",
+    "points": 5
+  },
+  {
+    "word": "Between",
+    "points": 12
+  },
+  {
+    "word": "Elevator",
+    "points": 16
+  },
+  {
+    "word": "Filthy",
+    "points": 28
+  },
+  {
+    "word": "Brunette",
+    "points": 22
+  },
+  {
+    "word": "Approach",
+    "points": 18
+  },
+  {
+    "word": "Codenames",
+    "points": 20
+  },
+  {
+    "word": "Branch",
+    "points": 17
+  },
+  {
+    "word": "Telescope",
+    "points": 24
+  },
+  {
+    "word": "Garden",
+    "points": 16
+  },
+  {
+    "word": "Library",
+    "points": 16
+  },
+  {
+    "word": "Plastic",
+    "points": 17
+  },
+  {
+    "word": "Camera",
+    "points": 20
+  },
+  {
+    "word": "Laptop",
+    "points": 28
+  },
+  {
+    "word": "Mirror",
+    "points": 23
+  },
+  {
+    "word": "Coffee",
+    "points": 19
+  },
+  {
+    "word": "Podcast",
+    "points": 17
+  },
+  {
+    "word": "Jacket",
+    "points": 16
+  },
+  {
+    "word": "Window",
+    "points": 25
+  },
+  {
+    "word": "Bottle",
+    "points": 26
+  },
+  {
+    "word": "Castle",
+    "points": 24
+  },
+  {
+    "word": "Dolphin",
+    "points": 16
+  },
+  {
+    "word": "Compass",
+    "points": 20
+  },
+  {
+    "word": "Orchestra",
+    "points": 23
+  },
+  {
+    "word": "Subway",
+    "points": 18
+  },
+  {
+    "word": "Diamond",
+    "points": 16
+  },
+  {
+    "word": "Sapphire",
+    "points": 25
+  },
+  {
+    "word": "Kitchen",
+    "points": 20
+  },
+  {
+    "word": "Elephant",
+    "points": 17
+  },
+  {
+    "word": "Volcano",
+    "points": 16
+  },
+  {
+    "word": "Universe",
+    "points": 16
+  },
+  {
+    "word": "Horizon",
+    "points": 23
+  },
+  {
+    "word": "Keyboard",
+    "points": 27
+  },
+  {
+    "word": "Network",
+    "points": 22
+  },
+  {
+    "word": "Gallery",
+    "points": 26
+  },
+  {
+    "word": "Museum",
+    "points": 16
+  },
+  {
+    "word": "Theater",
+    "points": 21
+  },
+  {
+    "word": "Concert",
+    "points": 17
+  },
+  {
+    "word": "Journal",
+    "points": 21
+  },
+  {
+    "word": "History",
+    "points": 25
+  },
+  {
+    "word": "Science",
+    "points": 27
+  },
+  {
+    "word": "Medicine",
+    "points": 25
+  },
+  {
+    "word": "Biology",
+    "points": 20
+  },
+  {
+    "word": "Physics",
+    "points": 24
+  },
+  {
+    "word": "Chemistry",
+    "points": 22
+  },
+  {
+    "word": "Economy",
+    "points": 25
+  },
+  {
+    "word": "Politics",
+    "points": 21
+  },
+  {
+    "word": "Culture",
+    "points": 22
+  },
+  {
+    "word": "Holiday",
+    "points": 24
+  },
+  {
+    "word": "Festival",
+    "points": 24
+  },
+  {
+    "word": "Calendar",
+    "points": 24
+  },
+  {
+    "word": "Monitor",
+    "points": 26
+  },
+  {
+    "word": "Printer",
+    "points": 27
+  },
+  {
+    "word": "Speaker",
+    "points": 18
+  },
+  {
+    "word": "Battery",
+    "points": 21
+  },
+  {
+    "word": "Charger",
+    "points": 24
+  },
+  {
+    "word": "Cabinet",
+    "points": 25
+  },
+  {
+    "word": "Closet",
+    "points": 21
+  },
+  {
+    "word": "Drawer",
+    "points": 21
+  },
+  {
+    "word": "Shelf",
+    "points": 27
+  },
+  {
+    "word": "Counter",
+    "points": 22
+  },
+  {
+    "word": "Chimney",
+    "points": 25
+  },
+  {
+    "word": "Stairway",
+    "points": 20
+  },
+  {
+    "word": "Hallway",
+    "points": 21
+  },
+  {
+    "word": "Garage",
+    "points": 27
+  },
+  {
+    "word": "Driveway",
+    "points": 28
+  },
+  {
+    "word": "Balcony",
+    "points": 24
+  },
+  {
+    "word": "Terrace",
+    "points": 22
+  },
+  {
+    "word": "Courtyard",
+    "points": 19
+  },
+  {
+    "word": "Patio",
+    "points": 27
+  },
+  {
+    "word": "Fountain",
+    "points": 17
+  },
+  {
+    "word": "Statue",
+    "points": 21
+  },
+  {
+    "word": "Painting",
+    "points": 18
+  },
+  {
+    "word": "Sculpture",
+    "points": 23
+  },
+  {
+    "word": "Poster",
+    "points": 22
+  },
+  {
+    "word": "Frame",
+    "points": 26
+  },
+  {
+    "word": "Banner",
+    "points": 23
+  },
+  {
+    "word": "Billboard",
+    "points": 15
+  },
+  {
+    "word": "Sticker",
+    "points": 15
+  },
+  {
+    "word": "Packet",
+    "points": 16
+  },
+  {
+    "word": "Carton",
+    "points": 24
+  },
+  {
+    "word": "Container",
+    "points": 17
+  },
+  {
+    "word": "Envelope",
+    "points": 21
+  },
+  {
+    "word": "Postcard",
+    "points": 27
+  },
+  {
+    "word": "Stamp",
+    "points": 25
+  },
+  {
+    "word": "Voucher",
+    "points": 28
+  },
+  {
+    "word": "Ticket",
+    "points": 15
+  },
+  {
+    "word": "Receipt",
+    "points": 21
+  },
+  {
+    "word": "Invoice",
+    "points": 18
+  },
+  {
+    "word": "Contract",
+    "points": 25
+  },
+  {
+    "word": "Agreement",
+    "points": 23
+  },
+  {
+    "word": "Document",
+    "points": 22
+  },
+  {
+    "word": "Article",
+    "points": 18
+  },
+  {
+    "word": "Magazine",
+    "points": 15
+  },
+  {
+    "word": "Newspaper",
+    "points": 25
+  },
+  {
+    "word": "Report",
+    "points": 25
+  },
+  {
+    "word": "Script",
+    "points": 19
+  },
+  {
+    "word": "Speech",
+    "points": 23
+  },
+  {
+    "word": "Story",
+    "points": 15
+  },
+  {
+    "word": "Novel",
+    "points": 23
+  },
+  {
+    "word": "Legend",
+    "points": 28
+  },
+  {
+    "word": "Fable",
+    "points": 15
+  },
+  {
+    "word": "Poetry",
+    "points": 18
+  },
+  {
+    "word": "Chorus",
+    "points": 25
+  },
+  {
+    "word": "Rhyme",
+    "points": 18
+  },
+  {
+    "word": "Melody",
+    "points": 26
+  },
+  {
+    "word": "Rhythm",
+    "points": 28
+  },
+  {
+    "word": "Harmony",
+    "points": 26
+  },
+  {
+    "word": "Canvas",
+    "points": 17
+  },
+  {
+    "word": "Palette",
+    "points": 17
+  },
+  {
+    "word": "Brushes",
+    "points": 15
+  },
+  {
+    "word": "Easel",
+    "points": 17
+  },
+  {
+    "word": "Charcoal",
+    "points": 17
+  },
+  {
+    "word": "Pottery",
+    "points": 27
+  },
+  {
+    "word": "Ceramic",
+    "points": 25
+  },
+  {
+    "word": "Fashion",
+    "points": 16
+  },
+  {
+    "word": "Costume",
+    "points": 22
+  },
+  {
+    "word": "Jewelry",
+    "points": 25
+  },
+  {
+    "word": "Bracelet",
+    "points": 16
+  },
+  {
+    "word": "Necklace",
+    "points": 21
+  },
+  {
+    "word": "Earring",
+    "points": 27
+  },
+  {
+    "word": "Brooch",
+    "points": 27
+  },
+  {
+    "word": "Glasses",
+    "points": 17
+  },
+  {
+    "word": "Watch",
+    "points": 18
+  },
+  {
+    "word": "Wallet",
+    "points": 26
+  },
+  {
+    "word": "Handbag",
+    "points": 20
+  },
+  {
+    "word": "Backpack",
+    "points": 22
+  },
+  {
+    "word": "Luggage",
+    "points": 24
+  },
+  {
+    "word": "Suitcase",
+    "points": 19
+  },
+  {
+    "word": "Passport",
+    "points": 26
+  },
+  {
+    "word": "License",
+    "points": 26
+  },
+  {
+    "word": "Identity",
+    "points": 19
+  },
+  {
+    "word": "Profile",
+    "points": 24
+  },
+  {
+    "word": "Account",
+    "points": 16
+  },
+  {
+    "word": "Password",
+    "points": 23
+  },
+  {
+    "word": "Address",
+    "points": 16
+  },
+  {
+    "word": "Contact",
+    "points": 15
+  },
+  {
+    "word": "Message",
+    "points": 25
+  },
+  {
+    "word": "Notice",
+    "points": 25
+  },
+  {
+    "word": "Advice",
+    "points": 23
+  },
+  {
+    "word": "Opinion",
+    "points": 23
+  },
+  {
+    "word": "Future",
+    "points": 20
+  },
+  {
+    "word": "Action",
+    "points": 18
+  },
+  {
+    "word": "Energy",
+    "points": 22
+  },
+  {
+    "word": "Weight",
+    "points": 22
+  },
+  {
+    "word": "Length",
+    "points": 15
+  },
+  {
+    "word": "Volume",
+    "points": 23
+  },
+  {
+    "word": "Circle",
+    "points": 21
+  },
+  {
+    "word": "Border",
+    "points": 26
+  },
+  {
+    "word": "Corner",
+    "points": 19
+  },
+  {
+    "word": "Pattern",
+    "points": 15
+  },
+  {
+    "word": "Texture",
+    "points": 15
+  },
+  {
+    "word": "Flavor",
+    "points": 28
+  },
+  {
+    "word": "Aroma",
+    "points": 24
+  },
+  {
+    "word": "Fragrance",
+    "points": 24
+  },
+  {
+    "word": "Essence",
+    "points": 25
+  },
+  {
+    "word": "Extract",
+    "points": 18
+  },
+  {
+    "word": "Machine",
+    "points": 18
+  },
+  {
+    "word": "Vehicle",
+    "points": 15
+  },
+  {
+    "word": "Aircraft",
+    "points": 28
+  },
+  {
+    "word": "Satellite",
+    "points": 19
+  },
+  {
+    "word": "Rocket",
+    "points": 24
+  },
+  {
+    "word": "Robot",
+    "points": 25
+  },
+  {
+    "word": "Gadget",
+    "points": 20
+  },
+  {
+    "word": "Device",
+    "points": 20
+  },
+  {
+    "word": "System",
+    "points": 15
+  },
+  {
+    "word": "Engine",
+    "points": 18
+  },
+  {
+    "word": "Turbine",
+    "points": 23
+  },
+  {
+    "word": "Project",
+    "points": 27
+  },
+  {
+    "word": "Design",
+    "points": 28
+  },
+  {
+    "word": "Concept",
+    "points": 28
+  },
+  {
+    "word": "Theory",
+    "points": 20
+  },
+  {
+    "word": "Method",
+    "points": 26
+  },
+  {
+    "word": "Technique",
+    "points": 18
+  },
+  {
+    "word": "Practice",
+    "points": 17
+  },
+  {
+    "word": "Skill",
+    "points": 27
+  },
+  {
+    "word": "Ability",
+    "points": 17
+  },
+  {
+    "word": "Talent",
+    "points": 26
+  },
+  {
+    "word": "Expert",
+    "points": 20
+  },
+  {
+    "word": "Master",
+    "points": 27
+  },
+  {
+    "word": "Junior",
+    "points": 15
+  },
+  {
+    "word": "Senior",
+    "points": 17
+  },
+  {
+    "word": "Leader",
+    "points": 26
+  },
+  {
+    "word": "Member",
+    "points": 16
+  },
+  {
+    "word": "Partner",
+    "points": 21
+  },
+  {
+    "word": "Client",
+    "points": 26
+  },
+  {
+    "word": "Guest",
+    "points": 16
+  },
+  {
+    "word": "Staff",
+    "points": 16
+  },
+  {
+    "word": "Officer",
+    "points": 15
+  },
+  {
+    "word": "Manager",
+    "points": 15
+  },
+  {
+    "word": "Director",
+    "points": 19
+  },
+  {
+    "word": "Agent",
+    "points": 19
+  },
+  {
+    "word": "Pilot",
+    "points": 23
+  },
+  {
+    "word": "Driver",
+    "points": 21
+  },
+  {
+    "word": "Farmer",
+    "points": 17
+  },
+  {
+    "word": "Worker",
+    "points": 23
+  },
+  {
+    "word": "Author",
+    "points": 21
+  },
+  {
+    "word": "Painter",
+    "points": 20
+  },
+  {
+    "word": "Doctor",
+    "points": 20
+  },
+  {
+    "word": "Nurse",
+    "points": 16
+  },
+  {
+    "word": "Lawyer",
+    "points": 26
+  },
+  {
+    "word": "Judge",
+    "points": 19
+  },
+  {
+    "word": "Priest",
+    "points": 22
+  },
+  {
+    "word": "Singer",
+    "points": 27
+  },
+  {
+    "word": "Actor",
+    "points": 28
+  },
+  {
+    "word": "Athlete",
+    "points": 24
+  },
+  {
+    "word": "Hunter",
+    "points": 18
+  },
+  {
+    "word": "Sailor",
+    "points": 24
+  },
+  {
+    "word": "Knight",
+    "points": 19
+  },
+  {
+    "word": "Prince",
+    "points": 18
+  },
+  {
+    "word": "Princess",
+    "points": 22
+  },
+  {
+    "word": "Global",
+    "points": 18
+  },
+  {
+    "word": "Public",
+    "points": 17
+  },
+  {
+    "word": "Secret",
+    "points": 18
+  },
+  {
+    "word": "Local",
+    "points": 23
+  },
+  {
+    "word": "Common",
+    "points": 25
+  },
+  {
+    "word": "Unique",
+    "points": 18
+  },
+  {
+    "word": "Modern",
+    "points": 19
+  },
+  {
+    "word": "Classic",
+    "points": 25
+  },
+  {
+    "word": "Antique",
+    "points": 20
+  },
+  {
+    "word": "Vintage",
+    "points": 27
+  },
+  {
+    "word": "Stable",
+    "points": 24
+  },
+  {
+    "word": "Fragile",
+    "points": 28
+  },
+  {
+    "word": "Active",
+    "points": 25
+  },
+  {
+    "word": "Passive",
+    "points": 19
+  },
+  {
+    "word": "Natural",
+    "points": 24
+  },
+  {
+    "word": "Formal",
+    "points": 23
+  },
+  {
+    "word": "Sudden",
+    "points": 23
+  },
+  {
+    "word": "Careful",
+    "points": 22
+  },
+  {
+    "word": "Gentle",
+    "points": 16
+  },
+  {
+    "word": "Honest",
+    "points": 23
+  },
+  {
+    "word": "Famous",
+    "points": 18
+  },
+  {
+    "word": "Lucky",
+    "points": 15
+  },
+  {
+    "word": "Lonely",
+    "points": 19
+  },
+  {
+    "word": "Crowded",
+    "points": 16
+  },
+  {
+    "word": "Orange",
+    "points": 26
+  },
+  {
+    "word": "Yellow",
+    "points": 16
+  },
+  {
+    "word": "Purple",
+    "points": 26
+  },
+  {
+    "word": "Bamboo",
+    "points": 26
+  },
+  {
+    "word": "Cotton",
+    "points": 26
+  },
+  {
+    "word": "Gravel",
+    "points": 18
+  },
+  {
+    "word": "Pebble",
+    "points": 28
+  },
+  {
+    "word": "Emerald",
+    "points": 20
+  },
+  {
+    "word": "Rainbow",
+    "points": 22
+  },
+  {
+    "word": "Thunder",
+    "points": 17
+  },
+  {
+    "word": "Ocean",
+    "points": 28
+  },
+  {
+    "word": "Glacier",
+    "points": 28
+  },
+  {
+    "word": "Continent",
+    "points": 21
+  },
+  {
+    "word": "Canyon",
+    "points": 20
+  },
+  {
+    "word": "Prairie",
+    "points": 25
+  },
+  {
+    "word": "Savanna",
+    "points": 25
+  },
+  {
+    "word": "Atmosphere",
+    "points": 26
+  },
+  {
+    "word": "Climate",
+    "points": 15
+  },
+  {
+    "word": "Season",
+    "points": 23
+  },
+  {
+    "word": "Harvest",
+    "points": 24
+  },
+  {
+    "word": "Agriculture",
+    "points": 25
+  },
+  {
+    "word": "Orchard",
+    "points": 22
+  },
+  {
+    "word": "Vineyard",
+    "points": 19
+  },
+  {
+    "word": "Pasture",
+    "points": 15
+  },
+  {
+    "word": "Arena",
+    "points": 15
+  },
+  {
+    "word": "Stadium",
+    "points": 19
+  },
+  {
+    "word": "Studio",
+    "points": 21
+  },
+  {
+    "word": "Workshop",
+    "points": 17
+  },
+  {
+    "word": "Clinic",
+    "points": 20
+  },
+  {
+    "word": "School",
+    "points": 25
+  },
+  {
+    "word": "Academy",
+    "points": 21
+  },
+  {
+    "word": "Office",
+    "points": 26
+  },
+  {
+    "word": "Agency",
+    "points": 18
+  },
+  {
+    "word": "Company",
+    "points": 19
+  },
+  {
+    "word": "Service",
+    "points": 17
+  },
+  {
+    "word": "Product",
+    "points": 18
+  },
+  {
+    "word": "Brand",
+    "points": 24
+  },
+  {
+    "word": "Label",
+    "points": 24
+  },
+  {
+    "word": "Logo",
+    "points": 19
+  },
+  {
+    "word": "Slogan",
+    "points": 15
+  },
+  {
+    "word": "Advertisement",
+    "points": 22
+  },
+  {
+    "word": "Sales",
+    "points": 25
+  },
+  {
+    "word": "Market",
+    "points": 22
+  },
+  {
+    "word": "Finance",
+    "points": 26
+  },
+  {
+    "word": "Investment",
+    "points": 17
+  },
+  {
+    "word": "Equity",
+    "points": 23
+  },
+  {
+    "word": "Assets",
+    "points": 23
+  },
+  {
+    "word": "Credit",
+    "points": 16
+  },
+  {
+    "word": "Profit",
+    "points": 23
+  },
+  {
+    "word": "Income",
+    "points": 28
+  },
+  {
+    "word": "Expense",
+    "points": 15
+  },
+  {
+    "word": "Taxes",
+    "points": 27
+  },
+  {
+    "word": "Retail",
+    "points": 17
+  },
+  {
+    "word": "Wholesale",
+    "points": 27
+  },
+  {
+    "word": "Factory",
+    "points": 23
+  },
+  {
+    "word": "Industry",
+    "points": 23
+  },
+  {
+    "word": "Trade",
+    "points": 25
+  },
+  {
+    "word": "Cargo",
+    "points": 20
+  },
+  {
+    "word": "Freight",
+    "points": 15
+  },
+  {
+    "word": "Transit",
+    "points": 24
+  },
+  {
+    "word": "Routes",
+    "points": 25
+  },
+  {
+    "word": "Distance",
+    "points": 28
+  },
+  {
+    "word": "Speed",
+    "points": 16
+  },
+  {
+    "word": "Safety",
+    "points": 28
+  },
+  {
+    "word": "Danger",
+    "points": 17
+  },
+  {
+    "word": "Rescue",
+    "points": 24
+  },
+  {
+    "word": "FirstAid",
+    "points": 19
+  },
+  {
+    "word": "Health",
+    "points": 20
+  },
+  {
+    "word": "Hygiene",
+    "points": 28
+  },
+  {
+    "word": "Fitness",
+    "points": 24
+  },
+  {
+    "word": "Exercise",
+    "points": 21
+  },
+  {
+    "word": "Sports",
+    "points": 24
+  },
+  {
+    "word": "Victory",
+    "points": 20
+  },
+  {
+    "word": "Defeat",
+    "points": 26
+  },
+  {
+    "word": "Goal",
+    "points": 21
+  },
+  {
+    "word": "Score",
+    "points": 28
+  },
+  {
+    "word": "Rules",
+    "points": 15
+  },
+  {
+    "word": "Penalty",
+    "points": 15
+  },
+  {
+    "word": "Referee",
+    "points": 22
+  },
+  {
+    "word": "League",
+    "points": 21
+  },
+  {
+    "word": "Champion",
+    "points": 19
+  },
+  {
+    "word": "Medal",
+    "points": 28
+  },
+  {
+    "word": "Trophy",
+    "points": 23
+  },
+  {
+    "word": "Honor",
+    "points": 21
+  },
+  {
+    "word": "Glory",
+    "points": 15
+  },
+  {
+    "word": "Legacy",
+    "points": 20
+  },
+  {
+    "word": "Spirit",
+    "points": 28
+  },
+  {
+    "word": "Power",
+    "points": 26
+  },
+  {
+    "word": "Freedom",
+    "points": 26
+  },
+  {
+    "word": "Justice",
+    "points": 17
+  },
+  {
+    "word": "Reason",
+    "points": 19
+  },
+  {
+    "word": "Logic",
+    "points": 24
+  },
+  {
+    "word": "Will",
+    "points": 20
+  },
+  {
+    "word": "Faith",
+    "points": 22
+  },
+  {
+    "word": "Style",
+    "points": 22
+  },
+  {
+    "word": "Trend",
+    "points": 28
+  },
+  {
+    "word": "Movement",
+    "points": 26
+  },
+  {
+    "word": "Force",
+    "points": 28
+  },
+  {
+    "word": "Shadow",
+    "points": 21
+  },
+  {
+    "word": "Balance",
+    "points": 17
+  },
+  {
+    "word": "Unity",
+    "points": 19
+  },
+  {
+    "word": "Change",
+    "points": 17
+  },
+  {
+    "word": "Cycle",
+    "points": 26
+  },
+  {
+    "word": "Phase",
+    "points": 27
+  },
+  {
+    "word": "Growth",
+    "points": 17
+  },
+  {
+    "word": "Seeds",
+    "points": 18
+  },
+  {
+    "word": "Nature",
+    "points": 26
+  },
+  {
+    "word": "Social",
+    "points": 25
+  },
+  {
+    "word": "Group",
+    "points": 26
+  },
+  {
+    "word": "Team",
+    "points": 27
+  },
+  {
+    "word": "Friendship",
+    "points": 17
+  },
+  {
+    "word": "Trust",
+    "points": 22
+  },
+  {
+    "word": "Shelter",
+    "points": 19
+  },
+  {
+    "word": "Family",
+    "points": 25
+  },
+  {
+    "word": "London",
+    "points": 21
+  },
+  {
+    "word": "Paris",
+    "points": 20
+  },
+  {
+    "word": "Tokyo",
+    "points": 20
+  },
+  {
+    "word": "Berlin",
+    "points": 22
+  },
+  {
+    "word": "Dubai",
+    "points": 18
+  },
+  {
+    "word": "Sydney",
+    "points": 24
+  },
+  {
+    "word": "Mumbai",
+    "points": 25
+  },
+  {
+    "word": "Astronomy",
+    "points": 25
+  },
+  {
+    "word": "Botany",
+    "points": 22
+  },
+  {
+    "word": "Zoology",
+    "points": 16
+  },
+  {
+    "word": "Geology",
+    "points": 17
+  },
+  {
+    "word": "Dinosaur",
+    "points": 17
+  },
+  {
+    "word": "Pyramid",
+    "points": 17
+  },
+  {
+    "word": "Sphinx",
+    "points": 17
+  },
+  {
+    "word": "Anchor",
+    "points": 19
+  },
+  {
+    "word": "Magnet",
+    "points": 22
+  },
+  {
+    "word": "Piston",
+    "points": 26
+  },
+  {
+    "word": "Valve",
+    "points": 16
+  },
+  {
+    "word": "Circuit",
+    "points": 28
+  },
+  {
+    "word": "Program",
+    "points": 16
+  },
+  {
+    "word": "Abrasive",
+    "points": 27
+  },
+  {
+    "word": "Absolute",
+    "points": 19
+  },
+  {
+    "word": "Abstract",
+    "points": 20
+  },
+  {
+    "word": "Academic",
+    "points": 25
+  },
+  {
+    "word": "Accepted",
+    "points": 19
+  },
+  {
+    "word": "Accident",
+    "points": 26
+  },
+  {
+    "word": "Accuracy",
+    "points": 25
+  },
+  {
+    "word": "Accurate",
+    "points": 24
+  },
+  {
+    "word": "Achiever",
+    "points": 19
+  },
+  {
+    "word": "Acquaint",
+    "points": 16
+  },
+  {
+    "word": "Acquired",
+    "points": 27
+  },
+  {
+    "word": "Actually",
+    "points": 26
+  },
+  {
+    "word": "Adapting",
+    "points": 20
+  },
+  {
+    "word": "Adaptive",
+    "points": 17
+  },
+  {
+    "word": "Addition",
+    "points": 23
+  },
+  {
+    "word": "Adequate",
+    "points": 20
+  },
+  {
+    "word": "Adjusted",
+    "points": 18
+  },
+  {
+    "word": "Adjuster",
+    "points": 22
+  },
+  {
+    "word": "Admirals",
+    "points": 19
+  },
+  {
+    "word": "Admirer",
+    "points": 26
+  },
+  {
+    "word": "Adopted",
+    "points": 15
+  },
+  {
+    "word": "Adopter",
+    "points": 22
+  },
+  {
+    "word": "Adopting",
+    "points": 22
+  },
+  {
+    "word": "Adoption",
+    "points": 19
+  },
+  {
+    "word": "Advanced",
+    "points": 26
+  },
+  {
+    "word": "Advancing",
+    "points": 21
+  },
+  {
+    "word": "Archipelago",
+    "points": 36
+  },
+  {
+    "word": "Metallurgy",
+    "points": 42
+  },
+  {
+    "word": "Cartography",
+    "points": 45
+  },
+  {
+    "word": "Byzantium",
+    "points": 30
+  },
+  {
+    "word": "Quasar",
+    "points": 38
+  },
+  {
+    "word": "Fibonacci",
+    "points": 37
+  },
+  {
+    "word": "Photosynthesis",
+    "points": 34
+  },
+  {
+    "word": "Equilibrium",
+    "points": 32
+  },
+  {
+    "word": "Neuroscience",
+    "points": 38
+  },
+  {
+    "word": "Cryptography",
+    "points": 37
+  },
+  {
+    "word": "Holography",
+    "points": 31
+  },
+  {
+    "word": "Renaissance",
+    "points": 34
+  },
+  {
+    "word": "Machiavelli",
+    "points": 45
+  },
+  {
+    "word": "Sequestration",
+    "points": 40
+  },
+  {
+    "word": "Bicameral",
+    "points": 43
+  },
+  {
+    "word": "Proletariat",
+    "points": 44
+  },
+  {
+    "word": "Bourgeoisie",
+    "points": 40
+  },
+  {
+    "word": "Aristocracy",
+    "points": 33
+  },
+  {
+    "word": "Gerrymandering",
+    "points": 39
+  },
+  {
+    "word": "HabeasCorpus",
+    "points": 38
+  },
+  {
+    "word": "Jurisprudence",
+    "points": 32
+  },
+  {
+    "word": "Mendelism",
+    "points": 37
+  },
+  {
+    "word": "Darwinism",
+    "points": 32
+  },
+  {
+    "word": "Tectonic",
+    "points": 38
+  },
+  {
+    "word": "Sedimentary",
+    "points": 44
+  },
+  {
+    "word": "Metamorphic",
+    "points": 32
+  },
+  {
+    "word": "Strata",
+    "points": 43
+  },
+  {
+    "word": "Biosphere",
+    "points": 32
+  },
+  {
+    "word": "Ionosphere",
+    "points": 45
+  },
+  {
+    "word": "Mesosphere",
+    "points": 33
+  },
+  {
+    "word": "Trophosphere",
+    "points": 35
+  },
+  {
+    "word": "Astrobiology",
+    "points": 44
+  },
+  {
+    "word": "Geopolitics",
+    "points": 31
+  },
+  {
+    "word": "Macroeconomics",
+    "points": 41
+  },
+  {
+    "word": "Microbiology",
+    "points": 37
+  },
+  {
+    "word": "Linguistics",
+    "points": 31
+  },
+  {
+    "word": "Semantics",
+    "points": 30
+  },
+  {
+    "word": "Etymology",
+    "points": 30
+  },
+  {
+    "word": "Philology",
+    "points": 38
+  },
+  {
+    "word": "Metaphysics",
+    "points": 35
+  },
+  {
+    "word": "Epistemology",
+    "points": 32
+  },
+  {
+    "word": "Theology",
+    "points": 44
+  },
+  {
+    "word": "Mythology",
+    "points": 41
+  },
+  {
+    "word": "Aesthetics",
+    "points": 43
+  },
+  {
+    "word": "Ontology",
+    "points": 43
+  },
+  {
+    "word": "Rhetoric",
+    "points": 41
+  },
+  {
+    "word": "Syllogism",
+    "points": 32
+  },
+  {
+    "word": "Paradox",
+    "points": 31
+  },
+  {
+    "word": "Algorithm",
+    "points": 35
+  },
+  {
+    "word": "Heuristic",
+    "points": 33
+  },
+  {
+    "word": "Framework",
+    "points": 38
+  },
+  {
+    "word": "Metadata",
+    "points": 32
+  },
+  {
+    "word": "Interface",
+    "points": 44
+  },
+  {
+    "word": "Architecture",
+    "points": 33
+  },
+  {
+    "word": "Symbiosis",
+    "points": 33
+  },
+  {
+    "word": "Osmosis",
+    "points": 30
+  },
+  {
+    "word": "Diffusion",
+    "points": 36
+  },
+  {
+    "word": "Catalyst",
+    "points": 32
+  },
+  {
+    "word": "Enzyme",
+    "points": 37
+  },
+  {
+    "word": "Genome",
+    "points": 41
+  },
+  {
+    "word": "Chromosome",
+    "points": 31
+  },
+  {
+    "word": "Mutation",
+    "points": 41
+  },
+  {
+    "word": "Hybridization",
+    "points": 31
+  },
+  {
+    "word": "Ecosystem",
+    "points": 37
+  },
+  {
+    "word": "Sustainability",
+    "points": 32
+  },
+  {
+    "word": "Biodiversity",
+    "points": 37
+  },
+  {
+    "word": "Conservation",
+    "points": 37
+  },
+  {
+    "word": "Reformation",
+    "points": 30
+  },
+  {
+    "word": "Enlightenment",
+    "points": 35
+  },
+  {
+    "word": "Feudalism",
+    "points": 41
+  },
+  {
+    "word": "Imperialism",
+    "points": 44
+  },
+  {
+    "word": "Capitalism",
+    "points": 39
+  },
+  {
+    "word": "Socialism",
+    "points": 43
+  },
+  {
+    "word": "Communism",
+    "points": 31
+  },
+  {
+    "word": "Anarchism",
+    "points": 32
+  },
+  {
+    "word": "Fascism",
+    "points": 39
+  },
+  {
+    "word": "Nationalism",
+    "points": 31
+  },
+  {
+    "word": "Democracy",
+    "points": 35
+  },
+  {
+    "word": "Republic",
+    "points": 32
+  },
+  {
+    "word": "Totalitarian",
+    "points": 40
+  },
+  {
+    "word": "Topography",
+    "points": 44
+  },
+  {
+    "word": "Oceanography",
+    "points": 32
+  },
+  {
+    "word": "Meteorology",
+    "points": 45
+  },
+  {
+    "word": "Climatology",
+    "points": 35
+  },
+  {
+    "word": "Anthropology",
+    "points": 44
+  },
+  {
+    "word": "Archaeology",
+    "points": 42
+  },
+  {
+    "word": "Sociology",
+    "points": 38
+  },
+  {
+    "word": "Psychology",
+    "points": 36
+  },
+  {
+    "word": "Economics",
+    "points": 40
+  },
+  {
+    "word": "Pedagogy",
+    "points": 37
+  },
+  {
+    "word": "Didactics",
+    "points": 43
+  },
+  {
+    "word": "Andragogy",
+    "points": 30
+  },
+  {
+    "word": "Gerontology",
+    "points": 43
+  },
+  {
+    "word": "Pharmacology",
+    "points": 34
+  },
+  {
+    "word": "Toxicology",
+    "points": 35
+  },
+  {
+    "word": "Pathology",
+    "points": 41
+  },
+  {
+    "word": "Immunology",
+    "points": 34
+  },
+  {
+    "word": "Neurology",
+    "points": 37
+  },
+  {
+    "word": "Psychiatry",
+    "points": 31
+  },
+  {
+    "word": "Radiology",
+    "points": 45
+  },
+  {
+    "word": "Cardiology",
+    "points": 40
+  },
+  {
+    "word": "Oncology",
+    "points": 34
+  },
+  {
+    "word": "Hematology",
+    "points": 43
+  },
+  {
+    "word": "Dermatology",
+    "points": 31
+  },
+  {
+    "word": "Gastroenterology",
+    "points": 37
+  },
+  {
+    "word": "Ophthalmology",
+    "points": 33
+  },
+  {
+    "word": "Urology",
+    "points": 36
+  },
+  {
+    "word": "Thermodynamics",
+    "points": 43
+  },
+  {
+    "word": "Electromagnetism",
+    "points": 31
+  },
+  {
+    "word": "Kinematics",
+    "points": 38
+  },
+  {
+    "word": "Relativity",
+    "points": 40
+  },
+  {
+    "word": "Quantization",
+    "points": 36
+  },
+  {
+    "word": "Entropy",
+    "points": 41
+  },
+  {
+    "word": "Enthalpy",
+    "points": 30
+  },
+  {
+    "word": "Viscosity",
+    "points": 35
+  },
+  {
+    "word": "Turbulence",
+    "points": 35
+  },
+  {
+    "word": "Acoustics",
+    "points": 45
+  },
+  {
+    "word": "Optics",
+    "points": 33
+  },
+  {
+    "word": "Spectroscopy",
+    "points": 39
+  },
+  {
+    "word": "Crystalography",
+    "points": 38
+  },
+  {
+    "word": "Semiconductor",
+    "points": 37
+  },
+  {
+    "word": "Circuitry",
+    "points": 45
+  },
+  {
+    "word": "Robotics",
+    "points": 43
+  },
+  {
+    "word": "Cybernetics",
+    "points": 39
+  },
+  {
+    "word": "MachineLearning",
+    "points": 38
+  },
+  {
+    "word": "DataScience",
+    "points": 33
+  },
+  {
+    "word": "Nanotechnology",
+    "points": 31
+  },
+  {
+    "word": "Biotechnology",
+    "points": 38
+  },
+  {
+    "word": "Genomic",
+    "points": 37
+  },
+  {
+    "word": "Proteomic",
+    "points": 43
+  },
+  {
+    "word": "Metabolomic",
+    "points": 39
+  },
+  {
+    "word": "Pharmacogenomic",
+    "points": 40
+  },
+  {
+    "word": "Synthetics",
+    "points": 31
+  },
+  {
+    "word": "Baroque",
+    "points": 38
+  },
+  {
+    "word": "Rococo",
+    "points": 33
+  },
+  {
+    "word": "Neoclassicism",
+    "points": 38
+  },
+  {
+    "word": "Romanticism",
+    "points": 37
+  },
+  {
+    "word": "Realism",
+    "points": 30
+  },
+  {
+    "word": "Impressionism",
+    "points": 32
+  },
+  {
+    "word": "PostImpressionism",
+    "points": 38
+  },
+  {
+    "word": "Expressionism",
+    "points": 42
+  },
+  {
+    "word": "Cubism",
+    "points": 37
+  },
+  {
+    "word": "Futurism",
+    "points": 35
+  },
+  {
+    "word": "Surrealism",
+    "points": 42
+  },
+  {
+    "word": "Minimalism",
+    "points": 37
+  },
+  {
+    "word": "Modernism",
+    "points": 40
+  },
+  {
+    "word": "Postmodernism",
+    "points": 31
+  },
+  {
+    "word": "Conceptualism",
+    "points": 41
+  },
+  {
+    "word": "Brutalism",
+    "points": 37
+  },
+  {
+    "word": "Deconstructivism",
+    "points": 30
+  },
+  {
+    "word": "ArtNouveau",
+    "points": 32
+  },
+  {
+    "word": "ArtDeco",
+    "points": 42
+  },
+  {
+    "word": "Bauhaus",
+    "points": 34
+  },
+  {
+    "word": "Constructivism",
+    "points": 44
+  },
+  {
+    "word": "Suprematism",
+    "points": 34
+  },
+  {
+    "word": "Dadaism",
+    "points": 40
+  },
+  {
+    "word": "Fauvism",
+    "points": 42
+  },
+  {
+    "word": "Symbolism",
+    "points": 41
+  },
+  {
+    "word": "PreRaphaelite",
+    "points": 35
+  },
+  {
+    "word": "Byzantine",
+    "points": 33
+  },
+  {
+    "word": "Gothic",
+    "points": 36
+  },
+  {
+    "word": "Himalayas",
+    "points": 32
+  },
+  {
+    "word": "Andes",
+    "points": 38
+  },
+  {
+    "word": "Rockies",
+    "points": 31
+  },
+  {
+    "word": "Appalachian",
+    "points": 35
+  },
+  {
+    "word": "Alps",
+    "points": 39
+  },
+  {
+    "word": "Pyrenees",
+    "points": 30
+  },
+  {
+    "word": "Atlas",
+    "points": 40
+  },
+  {
+    "word": "Caucasus",
+    "points": 37
+  },
+  {
+    "word": "Ural",
+    "points": 41
+  },
+  {
+    "word": "Karakoram",
+    "points": 33
+  },
+  {
+    "word": "HinduKush",
+    "points": 45
+  },
+  {
+    "word": "Carpathian",
+    "points": 45
+  },
+  {
+    "word": "Apennines",
+    "points": 39
+  },
+  {
+    "word": "SierraNevada",
+    "points": 36
+  },
+  {
+    "word": "VictoriaFalls",
+    "points": 41
+  },
+  {
+    "word": "NiagaraFalls",
+    "points": 38
+  },
+  {
+    "word": "IguazuFalls",
+    "points": 41
+  },
+  {
+    "word": "AngelFalls",
+    "points": 34
+  },
+  {
+    "word": "Sahara",
+    "points": 33
+  },
+  {
+    "word": "Gobi",
+    "points": 35
+  },
+  {
+    "word": "Kalahari",
+    "points": 36
+  },
+  {
+    "word": "Atacama",
+    "points": 36
+  },
+  {
+    "word": "Mojave",
+    "points": 40
+  },
+  {
+    "word": "Patagonia",
+    "points": 44
+  },
+  {
+    "word": "Arabian",
+    "points": 33
+  },
+  {
+    "word": "Thar",
+    "points": 34
+  },
+  {
+    "word": "Gibson",
+    "points": 35
+  },
+  {
+    "word": "Simpson",
+    "points": 42
+  },
+  {
+    "word": "GreatSandy",
+    "points": 43
+  },
+  {
+    "word": "GreatVictoria",
+    "points": 41
+  },
+  {
+    "word": "Arctic",
+    "points": 32
+  },
+  {
+    "word": "Antarctic",
+    "points": 36
+  },
+  {
+    "word": "Greenland",
+    "points": 35
+  },
+  {
+    "word": "Baffin",
+    "points": 30
+  },
+  {
+    "word": "Ellesmere",
+    "points": 30
+  },
+  {
+    "word": "Sumatra",
+    "points": 38
+  },
+  {
+    "word": "Madagascar",
+    "points": 36
+  },
+  {
+    "word": "Borneo",
+    "points": 43
+  },
+  {
+    "word": "NewGuinea",
+    "points": 36
+  },
+  {
+    "word": "Honshu",
+    "points": 41
+  },
+  {
+    "word": "GreatBritain",
+    "points": 31
+  },
+  {
+    "word": "Java",
+    "points": 37
+  },
+  {
+    "word": "Luzon",
+    "points": 34
+  },
+  {
+    "word": "Iceland",
+    "points": 34
+  },
+  {
+    "word": "Mindanao",
+    "points": 30
+  },
+  {
+    "word": "Hokkaido",
+    "points": 37
+  },
+  {
+    "word": "Sakhalin",
+    "points": 37
+  },
+  {
+    "word": "SriLanka",
+    "points": 42
+  },
+  {
+    "word": "Tasmania",
+    "points": 34
+  },
+  {
+    "word": "Formosa",
+    "points": 32
+  },
+  {
+    "word": "Kyushu",
+    "points": 35
+  },
+  {
+    "word": "Hainan",
+    "points": 35
+  },
+  {
+    "word": "Skye",
+    "points": 36
+  },
+  {
+    "word": "Arran",
+    "points": 31
+  },
+  {
+    "word": "Lewis",
+    "points": 45
+  },
+  {
+    "word": "Harris",
+    "points": 34
+  },
+  {
+    "word": "Mull",
+    "points": 42
+  },
+  {
+    "word": "Islay",
+    "points": 30
+  },
+  {
+    "word": "Jura",
+    "points": 32
+  },
+  {
+    "word": "Eigg",
+    "points": 40
+  },
+  {
+    "word": "Rum",
+    "points": 33
+  },
+  {
+    "word": "Canna",
+    "points": 33
+  },
+  {
+    "word": "Muck",
+    "points": 36
+  },
+  {
+    "word": "Coll",
+    "points": 34
+  },
+  {
+    "word": "Tiree",
+    "points": 37
+  },
+  {
+    "word": "Barra",
+    "points": 40
+  },
+  {
+    "word": "Uist",
+    "points": 43
+  },
+  {
+    "word": "Benbecula",
+    "points": 44
+  },
+  {
+    "word": "StKilda",
+    "points": 43
+  },
+  {
+    "word": "FairIsle",
+    "points": 35
+  },
+  {
+    "word": "Foula",
+    "points": 38
+  },
+  {
+    "word": "Unst",
+    "points": 34
+  },
+  {
+    "word": "Yell",
+    "points": 33
+  },
+  {
+    "word": "Fetlar",
+    "points": 34
+  },
+  {
+    "word": "Whalsay",
+    "points": 39
+  },
+  {
+    "word": "Bressay",
+    "points": 41
+  },
+  {
+    "word": "Papa",
+    "points": 30
+  },
+  {
+    "word": "Apotheosis",
+    "points": 43
+  },
+  {
+    "word": "Metamorphosis",
+    "points": 32
+  },
+  {
+    "word": "Apotropaic",
+    "points": 38
+  },
+  {
+    "word": "Catharsis",
+    "points": 37
+  },
+  {
+    "word": "Hamartia",
+    "points": 32
+  },
+  {
+    "word": "Hubris",
+    "points": 36
+  },
+  {
+    "word": "Anagnorisis",
+    "points": 38
+  },
+  {
+    "word": "Peripeteia",
+    "points": 31
+  },
+  {
+    "word": "Mimesis",
+    "points": 43
+  },
+  {
+    "word": "Bacchanalia",
+    "points": 40
+  },
+  {
+    "word": "Saturnalia",
+    "points": 43
+  },
+  {
+    "word": "Farce",
+    "points": 36
+  },
+  {
+    "word": "Comedy",
+    "points": 42
+  },
+  {
+    "word": "Tragedy",
+    "points": 33
+  },
+  {
+    "word": "DuesExMachina",
+    "points": 33
+  },
+  {
+    "word": "Agnosticism",
+    "points": 30
+  },
+  {
+    "word": "Nihilism",
+    "points": 42
+  },
+  {
+    "word": "Existentialism",
+    "points": 37
+  },
+  {
+    "word": "Phenomenology",
+    "points": 45
+  },
+  {
+    "word": "Structuralism",
+    "points": 37
+  },
+  {
+    "word": "Hermeneutics",
+    "points": 37
+  },
+  {
+    "word": "Solipsism",
+    "points": 40
+  },
+  {
+    "word": "Theodicy",
+    "points": 40
+  },
+  {
+    "word": "Eschatology",
+    "points": 38
+  },
+  {
+    "word": "Soteriology",
+    "points": 35
+  },
+  {
+    "word": "Ecclesiology",
+    "points": 30
+  },
+  {
+    "word": "Quark",
+    "points": 45
+  },
+  {
+    "word": "Lepton",
+    "points": 36
+  },
+  {
+    "word": "Boson",
+    "points": 34
+  },
+  {
+    "word": "Fermion",
+    "points": 34
+  },
+  {
+    "word": "Hadron",
+    "points": 38
+  },
+  {
+    "word": "Baryon",
+    "points": 41
+  },
+  {
+    "word": "Meson",
+    "points": 35
+  },
+  {
+    "word": "Neutrino",
+    "points": 43
+  },
+  {
+    "word": "Muon",
+    "points": 45
+  },
+  {
+    "word": "Tauon",
+    "points": 32
+  },
+  {
+    "word": "Higgs",
+    "points": 44
+  },
+  {
+    "word": "Graviton",
+    "points": 45
+  },
+  {
+    "word": "Photon",
+    "points": 42
+  },
+  {
+    "word": "Gluon",
+    "points": 39
+  },
+  {
+    "word": "Superstring",
+    "points": 30
+  },
+  {
+    "word": "Supersymmetry",
+    "points": 41
+  },
+  {
+    "word": "QuantumGravity",
+    "points": 34
+  },
+  {
+    "word": "Zoroastrianism",
+    "points": 34
+  },
+  {
+    "word": "Manichaeism",
+    "points": 38
+  },
+  {
+    "word": "Gnosticism",
+    "points": 42
+  },
+  {
+    "word": "Sufism",
+    "points": 35
+  },
+  {
+    "word": "Kabbalah",
+    "points": 42
+  },
+  {
+    "word": "Vajrayana",
+    "points": 41
+  },
+  {
+    "word": "Theravada",
+    "points": 41
+  },
+  {
+    "word": "Mahayana",
+    "points": 33
+  },
+  {
+    "word": "Zen",
+    "points": 34
+  },
+  {
+    "word": "Taoism",
+    "points": 33
+  },
+  {
+    "word": "Confucianism",
+    "points": 39
+  },
+  {
+    "word": "Shintoism",
+    "points": 30
+  },
+  {
+    "word": "Sikhism",
+    "points": 36
+  },
+  {
+    "word": "Jainism",
+    "points": 38
+  },
+  {
+    "word": "Bahai",
+    "points": 33
+  },
+  {
+    "word": "Rastafarianism",
+    "points": 31
+  },
+  {
+    "word": "Schrödinger",
+    "points": 47
+  },
+  {
+    "word": "Panopticon",
+    "points": 49
+  },
+  {
+    "word": "Hegemony",
+    "points": 46
+  },
+  {
+    "word": "Quaternions",
+    "points": 47
+  },
+  {
+    "word": "Existential",
+    "points": 49
+  },
+  {
+    "word": "Kierkegaard",
+    "points": 46
+  },
+  {
+    "word": "Nietzsche",
+    "points": 48
+  },
+  {
+    "word": "Heidegger",
+    "points": 47
+  },
+  {
+    "word": "Sartre",
+    "points": 47
+  },
+  {
+    "word": "Foucault",
+    "points": 49
+  },
+  {
+    "word": "Epistemological",
+    "points": 49
+  },
+  {
+    "word": "Ontological",
+    "points": 48
+  },
+  {
+    "word": "Teleology",
+    "points": 49
+  },
+  {
+    "word": "Deontology",
+    "points": 47
+  },
+  {
+    "word": "Utilitarianism",
+    "points": 49
+  },
+  {
+    "word": "Heteronormativity",
+    "points": 46
+  },
+  {
+    "word": "Intersectionality",
+    "points": 50
+  },
+  {
+    "word": "Meritocracy",
+    "points": 50
+  },
+  {
+    "word": "Oligarchy",
+    "points": 50
+  },
+  {
+    "word": "Plutocracy",
+    "points": 49
+  },
+  {
+    "word": "Superposition",
+    "points": 48
+  },
+  {
+    "word": "Entanglement",
+    "points": 48
+  },
+  {
+    "word": "Singularity",
+    "points": 47
+  },
+  {
+    "word": "Interferometer",
+    "points": 49
+  },
+  {
+    "word": "Spectrography",
+    "points": 50
+  },
+  {
+    "word": "Chromatography",
+    "points": 49
+  },
+  {
+    "word": "Calorimetry",
+    "points": 49
+  },
+  {
+    "word": "Microscopy",
+    "points": 47
+  },
+  {
+    "word": "Endoscopy",
+    "points": 48
+  },
+  {
+    "word": "Laparoscopy",
+    "points": 50
+  },
+  {
+    "word": "Thoracoscopy",
+    "points": 49
+  },
+  {
+    "word": "Mediastinoscopy",
+    "points": 46
+  },
+  {
+    "word": "Cystoscopy",
+    "points": 47
+  },
+  {
+    "word": "Hysteroscopy",
+    "points": 46
+  },
+  {
+    "word": "Autochthonous",
+    "points": 46
+  },
+  {
+    "word": "Synecdoche",
+    "points": 48
+  },
+  {
+    "word": "Metonymy",
+    "points": 50
+  },
+  {
+    "word": "Hyperbole",
+    "points": 50
+  },
+  {
+    "word": "Oxymoron",
+    "points": 50
+  },
+  {
+    "word": "Zeugma",
+    "points": 50
+  },
+  {
+    "word": "Anaphora",
+    "points": 46
+  },
+  {
+    "word": "Epistrophe",
+    "points": 46
+  },
+  {
+    "word": "Asyndeton",
+    "points": 46
+  },
+  {
+    "word": "Polysyndeton",
+    "points": 50
+  },
+  {
+    "word": "Aposiopesis",
+    "points": 47
+  },
+  {
+    "word": "Chiasmus",
+    "points": 49
+  },
+  {
+    "word": "Paraprosdokian",
+    "points": 48
+  },
+  {
+    "word": "Litotes",
+    "points": 48
+  },
+  {
+    "word": "Euphemism",
+    "points": 46
+  },
+  {
+    "word": "Stochastic",
+    "points": 49
+  },
+  {
+    "word": "Probabilistic",
+    "points": 47
+  },
+  {
+    "word": "Inferential",
+    "points": 47
+  },
+  {
+    "word": "Parametric",
+    "points": 47
+  },
+  {
+    "word": "Nonparametric",
+    "points": 50
+  },
+  {
+    "word": "Multivariate",
+    "points": 48
+  },
+  {
+    "word": "Bivariate",
+    "points": 50
+  },
+  {
+    "word": "Univariate",
+    "points": 47
+  },
+  {
+    "word": "Regression",
+    "points": 50
+  },
+  {
+    "word": "Correlation",
+    "points": 46
+  },
+  {
+    "word": "Variance",
+    "points": 46
+  },
+  {
+    "word": "Covariance",
+    "points": 46
+  },
+  {
+    "word": "StandardDeviation",
+    "points": 50
+  },
+  {
+    "word": "Palaeontology",
+    "points": 47
+  },
+  {
+    "word": "Anthropological",
+    "points": 50
+  },
+  {
+    "word": "Ethnographical",
+    "points": 49
+  },
+  {
+    "word": "Archaeological",
+    "points": 50
+  },
+  {
+    "word": "Sociological",
+    "points": 50
+  },
+  {
+    "word": "Psychological",
+    "points": 50
+  },
+  {
+    "word": "Economical",
+    "points": 47
+  },
+  {
+    "word": "Political",
+    "points": 49
+  },
+  {
+    "word": "Geographical",
+    "points": 47
+  },
+  {
+    "word": "Historical",
+    "points": 47
+  },
+  {
+    "word": "Philosophical",
+    "points": 48
+  },
+  {
+    "word": "Theological",
+    "points": 50
+  },
+  {
+    "word": "Acorn",
+    "points": 7
+  },
+  {
+    "word": "Badge",
+    "points": 6
+  },
+  {
+    "word": "Baker",
+    "points": 12
+  },
+  {
+    "word": "Bacon",
+    "points": 9
+  },
+  {
+    "word": "Beard",
+    "points": 10
+  },
+  {
+    "word": "Bison",
+    "points": 8
+  },
+  {
+    "word": "Blade",
+    "points": 8
+  },
+  {
+    "word": "Block",
+    "points": 12
+  },
+  {
+    "word": "Bluff",
+    "points": 5
+  },
+  {
+    "word": "Boots",
+    "points": 11
+  },
+  {
+    "word": "Brick",
+    "points": 11
+  },
+  {
+    "word": "Bribe",
+    "points": 9
+  },
+  {
+    "word": "Brisk",
+    "points": 8
+  },
+  {
+    "word": "Brooms",
+    "points": 6
+  },
+  {
+    "word": "Brute",
+    "points": 10
+  },
+  {
+    "word": "Buddy",
+    "points": 9
+  },
+  {
+    "word": "Bugle",
+    "points": 5
+  },
+  {
+    "word": "Bulbs",
+    "points": 7
+  },
+  {
+    "word": "Bully",
+    "points": 11
+  },
+  {
+    "word": "Bunny",
+    "points": 5
+  },
+  {
+    "word": "Burns",
+    "points": 7
+  },
+  {
+    "word": "Burst",
+    "points": 8
+  },
+  {
+    "word": "Cabin",
+    "points": 6
+  },
+  {
+    "word": "Caddy",
+    "points": 6
+  },
+  {
+    "word": "Camps",
+    "points": 10
+  },
+  {
+    "word": "Candy",
+    "points": 10
+  },
+  {
+    "word": "Cents",
+    "points": 12
+  },
+  {
+    "word": "Chalk",
+    "points": 8
+  },
+  {
+    "word": "Charm",
+    "points": 5
+  },
+  {
+    "word": "Chase",
+    "points": 7
+  },
+  {
+    "word": "Chess",
+    "points": 7
+  },
+  {
+    "word": "Chief",
+    "points": 10
+  },
+  {
+    "word": "Chime",
+    "points": 9
+  },
+  {
+    "word": "Chips",
+    "points": 12
+  },
+  {
+    "word": "Chirp",
+    "points": 7
+  },
+  {
+    "word": "Choir",
+    "points": 8
+  },
+  {
+    "word": "Choke",
+    "points": 5
+  },
+  {
+    "word": "Chopped",
+    "points": 6
+  },
+  {
+    "word": "Chord",
+    "points": 7
+  },
+  {
+    "word": "Chore",
+    "points": 6
+  },
+  {
+    "word": "Chuck",
+    "points": 6
+  },
+  {
+    "word": "Churn",
+    "points": 7
+  },
+  {
+    "word": "Cigar",
+    "points": 9
+  },
+  {
+    "word": "Cider",
+    "points": 9
+  },
+  {
+    "word": "Clack",
+    "points": 8
+  },
+  {
+    "word": "Clank",
+    "points": 7
+  },
+  {
+    "word": "Clash",
+    "points": 12
+  },
+  {
+    "word": "Clasp",
+    "points": 10
+  },
+  {
+    "word": "Claws",
+    "points": 8
+  },
+  {
+    "word": "Clerk",
+    "points": 11
+  },
+  {
+    "word": "Click",
+    "points": 6
+  },
+  {
+    "word": "Cliff",
+    "points": 12
+  },
+  {
+    "word": "Climb",
+    "points": 7
+  },
+  {
+    "word": "Cling",
+    "points": 7
+  },
+  {
+    "word": "Clink",
+    "points": 9
+  },
+  {
+    "word": "Cloak",
+    "points": 8
+  },
+  {
+    "word": "Clock",
+    "points": 10
+  },
+  {
+    "word": "Clone",
+    "points": 6
+  },
+  {
+    "word": "Cloth",
+    "points": 10
+  },
+  {
+    "word": "Clown",
+    "points": 10
+  },
+  {
+    "word": "Cluck",
+    "points": 10
+  },
+  {
+    "word": "Clump",
+    "points": 11
+  },
+  {
+    "word": "Clumsy",
+    "points": 12
+  },
+  {
+    "word": "Coach",
+    "points": 11
+  },
+  {
+    "word": "Coals",
+    "points": 8
+  },
+  {
+    "word": "Cobra",
+    "points": 8
+  },
+  {
+    "word": "Cocks",
+    "points": 7
+  },
+  {
+    "word": "Codes",
+    "points": 10
+  },
+  {
+    "word": "Coils",
+    "points": 5
+  },
+  {
+    "word": "Coins",
+    "points": 7
+  },
+  {
+    "word": "Colds",
+    "points": 5
+  },
+  {
+    "word": "Corgi",
+    "points": 6
+  },
+  {
+    "word": "Cowboy",
+    "points": 12
+  },
+  {
+    "word": "Abacus",
+    "points": 22
+  },
+  {
+    "word": "Abated",
+    "points": 20
+  },
+  {
+    "word": "Abbey",
+    "points": 27
+  },
+  {
+    "word": "Abide",
+    "points": 27
+  },
+  {
+    "word": "Abound",
+    "points": 28
+  },
+  {
+    "word": "Abrupt",
+    "points": 23
+  },
+  {
+    "word": "Absorb",
+    "points": 19
+  },
+  {
+    "word": "Abused",
+    "points": 25
+  },
+  {
+    "word": "Abysmal",
+    "points": 24
+  },
+  {
+    "word": "Accent",
+    "points": 16
+  },
+  {
+    "word": "Accede",
+    "points": 19
+  },
+  {
+    "word": "Accept",
+    "points": 23
+  },
+  {
+    "word": "Access",
+    "points": 19
+  },
+  {
+    "word": "Accord",
+    "points": 23
+  },
+  {
+    "word": "Accost",
+    "points": 17
+  },
+  {
+    "word": "Accrue",
+    "points": 17
+  },
+  {
+    "word": "Accuse",
+    "points": 20
+  },
+  {
+    "word": "Acetone",
+    "points": 26
+  },
+  {
+    "word": "Acidic",
+    "points": 17
+  },
+  {
+    "word": "Acknow",
+    "points": 16
+  },
+  {
+    "word": "Acorns",
+    "points": 21
+  },
+  {
+    "word": "Acquit",
+    "points": 15
+  },
+  {
+    "word": "Across",
+    "points": 26
+  },
+  {
+    "word": "Acting",
+    "points": 18
+  },
+  {
+    "word": "Actual",
+    "points": 28
+  },
+  {
+    "word": "Acumen",
+    "points": 28
+  },
+  {
+    "word": "Adages",
+    "points": 20
+  },
+  {
+    "word": "Adapts",
+    "points": 23
+  },
+  {
+    "word": "Addend",
+    "points": 22
+  },
+  {
+    "word": "Addict",
+    "points": 20
+  },
+  {
+    "word": "Addled",
+    "points": 28
+  },
+  {
+    "word": "Adduce",
+    "points": 26
+  },
+  {
+    "word": "Adhere",
+    "points": 16
+  },
+  {
+    "word": "Adjoin",
+    "points": 17
+  },
+  {
+    "word": "Adjour",
+    "points": 18
+  },
+  {
+    "word": "Adjust",
+    "points": 23
+  },
+  {
+    "word": "Admire",
+    "points": 23
+  },
+  {
+    "word": "Admit",
+    "points": 22
+  },
+  {
+    "word": "Adolph",
+    "points": 25
+  },
+  {
+    "word": "Adopts",
+    "points": 22
+  },
+  {
+    "word": "Adored",
+    "points": 23
+  },
+  {
+    "word": "Adores",
+    "points": 20
+  },
+  {
+    "word": "Adorns",
+    "points": 18
+  },
+  {
+    "word": "Adrift",
+    "points": 23
+  },
+  {
+    "word": "Adroit",
+    "points": 27
+  },
+  {
+    "word": "Adsorb",
+    "points": 26
+  },
+  {
+    "word": "Adults",
+    "points": 21
+  },
+  {
+    "word": "Advent",
+    "points": 16
+  },
+  {
+    "word": "Adverb",
+    "points": 22
+  },
+  {
+    "word": "Advise",
+    "points": 18
+  },
+  {
+    "word": "Adware",
+    "points": 20
+  },
+  {
+    "word": "Aerify",
+    "points": 22
+  },
+  {
+    "word": "Aeroso",
+    "points": 20
+  },
+  {
+    "word": "Afarid",
+    "points": 16
+  },
+  {
+    "word": "Affair",
+    "points": 27
+  },
+  {
+    "word": "Affect",
+    "points": 21
+  },
+  {
+    "word": "Affirm",
+    "points": 25
+  },
+  {
+    "word": "Affix",
+    "points": 28
+  },
+  {
+    "word": "Afford",
+    "points": 27
+  },
+  {
+    "word": "Affray",
+    "points": 25
+  },
+  {
+    "word": "Afield",
+    "points": 22
+  },
+  {
+    "word": "Aflame",
+    "points": 18
+  },
+  {
+    "word": "Afloat",
+    "points": 28
+  },
+  {
+    "word": "Afresh",
+    "points": 28
+  },
+  {
+    "word": "Africa",
+    "points": 24
+  },
+  {
+    "word": "Afters",
+    "points": 18
+  },
+  {
+    "word": "Agated",
+    "points": 23
+  },
+  {
+    "word": "Agates",
+    "points": 16
+  },
+  {
+    "word": "Agaves",
+    "points": 25
+  },
+  {
+    "word": "Ageing",
+    "points": 16
+  },
+  {
+    "word": "Agenda",
+    "points": 25
+  },
+  {
+    "word": "Agents",
+    "points": 22
+  },
+  {
+    "word": "Aghast",
+    "points": 25
+  },
+  {
+    "word": "Agilely",
+    "points": 17
+  },
+  {
+    "word": "Agility",
+    "points": 16
+  },
+  {
+    "word": "Agings",
+    "points": 15
+  },
+  {
+    "word": "Agisms",
+    "points": 26
+  },
+  {
+    "word": "Aglows",
+    "points": 20
+  },
+  {
+    "word": "Agonal",
+    "points": 27
+  },
+  {
+    "word": "Agonic",
+    "points": 27
+  },
+  {
+    "word": "Agonies",
+    "points": 18
+  },
+  {
+    "word": "Agonize",
+    "points": 18
+  },
+  {
+    "word": "Agreed",
+    "points": 28
+  },
+  {
+    "word": "Agrees",
+    "points": 21
+  },
+  {
+    "word": "Aheads",
+    "points": 18
+  },
+  {
+    "word": "Aiding",
+    "points": 25
+  },
+  {
+    "word": "Aidman",
+    "points": 19
+  },
+  {
+    "word": "Aidmen",
+    "points": 23
+  },
+  {
+    "word": "Aigret",
+    "points": 27
+  },
+  {
+    "word": "Ailing",
+    "points": 27
+  },
+  {
+    "word": "Aiming",
+    "points": 21
+  },
+  {
+    "word": "Airbag",
+    "points": 21
+  },
+  {
+    "word": "Airier",
+    "points": 19
+  },
+  {
+    "word": "Airily",
+    "points": 20
+  },
+  {
+    "word": "Airman",
+    "points": 24
+  },
+  {
+    "word": "Airmen",
+    "points": 27
+  },
+  {
+    "word": "Airship",
+    "points": 17
+  },
+  {
+    "word": "Airward",
+    "points": 17
+  },
+  {
+    "word": "Aisles",
+    "points": 15
+  },
+  {
+    "word": "Ajarly",
+    "points": 27
+  },
+  {
+    "word": "Akimbo",
+    "points": 18
+  },
+  {
+    "word": "Alarms",
+    "points": 21
+  },
+  {
+    "word": "Albedo",
+    "points": 15
+  },
+  {
+    "word": "Albeit",
+    "points": 22
+  },
+  {
+    "word": "Albino",
+    "points": 22
+  },
+  {
+    "word": "Albite",
+    "points": 23
+  },
+  {
+    "word": "Albums",
+    "points": 25
+  },
+  {
+    "word": "Alcers",
+    "points": 17
+  },
+  {
+    "word": "Alcove",
+    "points": 16
+  },
+  {
+    "word": "Alders",
+    "points": 26
+  },
+  {
+    "word": "Aldols",
+    "points": 28
+  },
+  {
+    "word": "Alerts",
+    "points": 17
+  },
+  {
+    "word": "Alfalf",
+    "points": 28
+  },
+  {
+    "word": "Algaes",
+    "points": 23
+  },
+  {
+    "word": "Algoid",
+    "points": 24
+  },
+  {
+    "word": "Alibis",
+    "points": 15
+  },
+  {
+    "word": "Aliens",
+    "points": 22
+  },
+  {
+    "word": "Alight",
+    "points": 27
+  },
+  {
+    "word": "Aligns",
+    "points": 24
+  },
+  {
+    "word": "Alike",
+    "points": 26
+  },
+  {
+    "word": "Alimental",
+    "points": 17
+  },
+  {
+    "word": "Aliment",
+    "points": 15
+  },
+  {
+    "word": "Alimony",
+    "points": 24
+  },
+  {
+    "word": "Alines",
+    "points": 27
+  },
+  {
+    "word": "Aliots",
+    "points": 28
+  },
+  {
+    "word": "Alkali",
+    "points": 27
+  },
+  {
+    "word": "Alkane",
+    "points": 22
+  },
+  {
+    "word": "Alkene",
+    "points": 22
+  },
+  {
+    "word": "Alkyd",
+    "points": 21
+  },
+  {
+    "word": "Alkyls",
+    "points": 24
+  },
+  {
+    "word": "Allays",
+    "points": 21
+  },
+  {
+    "word": "Allege",
+    "points": 21
+  },
+  {
+    "word": "Allele",
+    "points": 27
+  },
+  {
+    "word": "Alley",
+    "points": 17
+  },
+  {
+    "word": "Allied",
+    "points": 24
+  },
+  {
+    "word": "Allies",
+    "points": 18
+  },
+  {
+    "word": "Allock",
+    "points": 23
+  },
+  {
+    "word": "Allots",
+    "points": 17
+  },
+  {
+    "word": "Allows",
+    "points": 25
+  },
+  {
+    "word": "Alloys",
+    "points": 20
+  },
+  {
+    "word": "Allure",
+    "points": 21
+  },
+  {
+    "word": "Allyls",
+    "points": 18
+  },
+  {
+    "word": "Almanac",
+    "points": 28
+  },
+  {
+    "word": "Almond",
+    "points": 24
+  },
+  {
+    "word": "Almost",
+    "points": 28
+  },
+  {
+    "word": "Alpaca",
+    "points": 18
+  },
+  {
+    "word": "Alphas",
+    "points": 24
+  },
+  {
+    "word": "Alpine",
+    "points": 15
+  },
+  {
+    "word": "Alread",
+    "points": 26
+  },
+  {
+    "word": "Alskan",
+    "points": 22
+  },
+  {
+    "word": "Altars",
+    "points": 23
+  },
+  {
+    "word": "Alters",
+    "points": 23
+  },
+  {
+    "word": "Althea",
+    "points": 24
+  },
+  {
+    "word": "Alms",
+    "points": 18
+  },
+  {
+    "word": "Aloe",
+    "points": 18
+  },
+  {
+    "word": "Ample",
+    "points": 26
+  },
+  {
+    "word": "Apply",
+    "points": 20
+  },
+  {
+    "word": "Archer",
+    "points": 24
+  },
+  {
+    "word": "Armory",
+    "points": 28
+  },
+  {
+    "word": "Asleep",
+    "points": 24
+  },
+  {
+    "word": "Assist",
+    "points": 22
+  },
+  {
+    "word": "Assume",
+    "points": 15
+  },
+  {
+    "word": "Astray",
+    "points": 18
+  },
+  {
+    "word": "Atomic",
+    "points": 26
+  },
+  {
+    "word": "Attach",
+    "points": 22
+  },
+  {
+    "word": "Attack",
+    "points": 25
+  },
+  {
+    "word": "Attain",
+    "points": 27
+  },
+  {
+    "word": "Attend",
+    "points": 26
+  },
+  {
+    "word": "Attics",
+    "points": 17
+  },
+  {
+    "word": "August",
+    "points": 16
+  },
+  {
+    "word": "Avatar",
+    "points": 25
+  },
+  {
+    "word": "Avenue",
+    "points": 21
+  },
+  {
+    "word": "Averts",
+    "points": 20
+  },
+  {
+    "word": "Avidly",
+    "points": 26
+  },
+  {
+    "word": "Avoids",
+    "points": 22
+  },
+  {
+    "word": "Avowal",
+    "points": 24
+  },
+  {
+    "word": "Awaked",
+    "points": 26
+  },
+  {
+    "word": "Awaken",
+    "points": 20
+  },
+  {
+    "word": "Awards",
+    "points": 28
+  },
+  {
+    "word": "Aweing",
+    "points": 26
+  },
+  {
+    "word": "Awfuls",
+    "points": 15
+  },
+  {
+    "word": "Awhile",
+    "points": 25
+  },
+  {
+    "word": "Awning",
+    "points": 15
+  },
+  {
+    "word": "Awoken",
+    "points": 22
+  },
+  {
+    "word": "Axilla",
+    "points": 16
+  },
+  {
+    "word": "Axioms",
+    "points": 18
+  },
+  {
+    "word": "Axonal",
+    "points": 16
+  },
+  {
+    "word": "Azalea",
+    "points": 20
+  },
+  {
+    "word": "Azimuth",
+    "points": 18
+  },
+  {
+    "word": "Azotic",
+    "points": 15
+  },
+  {
+    "word": "Azures",
+    "points": 17
+  },
+  {
+    "word": "Aardwolf",
+    "points": 36
+  },
+  {
+    "word": "Abaissed",
+    "points": 42
+  },
+  {
+    "word": "Abalones",
+    "points": 33
+  },
+  {
+    "word": "Abampere",
+    "points": 44
+  },
+  {
+    "word": "Abandons",
+    "points": 40
+  },
+  {
+    "word": "Abasedly",
+    "points": 45
+  },
+  {
+    "word": "Abashment",
+    "points": 39
+  },
+  {
+    "word": "Abasias",
+    "points": 31
+  },
+  {
+    "word": "Abbatial",
+    "points": 41
+  },
+  {
+    "word": "Abbesse",
+    "points": 30
+  },
+  {
+    "word": "Abdicates",
+    "points": 43
+  },
+  {
+    "word": "Abdomen",
+    "points": 38
+  },
+  {
+    "word": "Abeam",
+    "points": 31
+  },
+  {
+    "word": "Abelias",
+    "points": 31
+  },
+  {
+    "word": "Aberrant",
+    "points": 42
+  },
+  {
+    "word": "Aboideau",
+    "points": 45
+  },
+  {
+    "word": "Abortions",
+    "points": 31
+  },
+  {
+    "word": "Absurdly",
+    "points": 35
+  },
+  {
+    "word": "Abuttals",
+    "points": 41
+  },
+  {
+    "word": "Acacias",
+    "points": 38
+  },
+  {
+    "word": "Acaleph",
+    "points": 42
+  },
+  {
+    "word": "Acarina",
+    "points": 33
+  },
+  {
+    "word": "Acceded",
+    "points": 39
+  }
+]

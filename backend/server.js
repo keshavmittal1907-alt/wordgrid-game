@@ -402,6 +402,6 @@ app.use((req, res) => {
 
 // Port configuration (useful for deployment)
 const PORT = process.env.PORT || 3001;
-server.listen(PORT, () => {
-  console.log(`Backend server listening on port ${PORT}`);
+server.listen(PORT, '0.0.0.0', () => {
+  console.log(`Backend server listening on 0.0.0.0:${PORT}`);
 });

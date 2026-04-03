@@ -190,8 +190,8 @@ function App() {
       
       {/* Header */}
       <header className="glass-panel border-b-1 border-x-0 border-t-0 p-4 sticky top-0 z-40 bg-white/2 backdrop-blur-xl">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-4">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 md:gap-0">
+          <div className="flex items-center justify-between w-full md:w-auto gap-4">
             <div className="flex items-center gap-2">
               <Sparkles size={18} className="text-white" />
               <h1 className="text-xl font-black text-white tracking-tight">wordgrid.gg</h1>
@@ -210,23 +210,23 @@ function App() {
             </div>
           </div>
           
-          <div className="flex items-center gap-4">
-            <div className="glass-panel px-4 py-2 rounded-2xl flex items-center gap-3 shadow-xl shadow-black/20 ring-1 ring-white/10">
-              <div className="text-[10px] uppercase font-black text-slate-500 tracking-widest">Time</div>
-              <div className={twMerge("text-2xl font-mono font-black", room.timer <= 10 ? "text-rose-500 animate-pulse" : "text-white")}>
+          <div className="flex items-center justify-center w-full md:w-auto gap-2 md:gap-4">
+            <div className="glass-panel px-3 py-1.5 md:px-4 md:py-2 rounded-2xl flex items-center gap-2 md:gap-3 shadow-xl shadow-black/20 ring-1 ring-white/10">
+              <div className="text-[10px] uppercase font-black text-slate-500 tracking-widest hidden sm:block">Time</div>
+              <div className={twMerge("text-xl md:text-2xl font-mono font-black", room.timer <= 10 ? "text-rose-500 animate-pulse" : "text-white")}>
                 {room.timer}s
               </div>
             </div>
             
-            <div className="glass-panel px-6 py-2 rounded-2xl flex items-center gap-6 shadow-xl shadow-black/20 ring-1 ring-white/10">
+            <div className="glass-panel px-4 py-1.5 md:px-6 md:py-2 rounded-2xl flex items-center gap-3 md:gap-6 shadow-xl shadow-black/20 ring-1 ring-white/10">
               <div className="text-center">
-                <div className="text-[10px] uppercase font-black text-blue-400 tracking-widest mb-0.5 max-w-[80px] truncate">{room.teamNames?.teamA || 'TEAM A'}</div>
-                <div className="text-2xl font-black text-white">{room.score.teamA}</div>
+                <div className="text-[9px] md:text-[10px] uppercase font-black text-blue-400 tracking-widest mb-0.5 max-w-[60px] md:max-w-[80px] truncate">{room.teamNames?.teamA || 'TEAM A'}</div>
+                <div className="text-xl md:text-2xl font-black text-white">{room.score.teamA}</div>
               </div>
-              <div className="w-px h-10 bg-white/10 rounded-full"></div>
+              <div className="w-px h-8 md:h-10 bg-white/10 rounded-full"></div>
               <div className="text-center">
-                <div className="text-[10px] uppercase font-black text-orange-400 tracking-widest mb-0.5 max-w-[80px] truncate">{room.teamNames?.teamB || 'TEAM B'}</div>
-                <div className="text-2xl font-black text-white">{room.score.teamB}</div>
+                <div className="text-[9px] md:text-[10px] uppercase font-black text-orange-400 tracking-widest mb-0.5 max-w-[60px] md:max-w-[80px] truncate">{room.teamNames?.teamB || 'TEAM B'}</div>
+                <div className="text-xl md:text-2xl font-black text-white">{room.score.teamB}</div>
               </div>
             </div>
             

@@ -7,8 +7,8 @@ import Confetti from 'react-confetti';
 import { useWindowSize } from 'react-use';
 
 // In production (built app), it automatically connects to the server that hosts it.
-// In dev mode, it forces connection to the local backend port.
-const socketUrl = import.meta.env.MODE === 'development' ? 'http://localhost:3001' : undefined;
+// In dev mode, it forces connection to the dynamic host network IP (to support mobile network testing).
+const socketUrl = import.meta.env.MODE === 'development' ? `http://${window.location.hostname}:3001` : undefined;
 const socket = io(socketUrl);
 
 function App() {
@@ -107,7 +107,7 @@ function App() {
                     type="text"
                     required
                     value={roomId}
-                    onChange={e => setRoomId(e.target.value.toUpperCase())}
+                    onChange={e => setRoomId(e.target.value.toUpperCase().trim())}
                     className="w-full bg-slate-900/50 border border-white/5 rounded-2xl px-5 py-4 text-white placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all uppercase font-mono font-bold tracking-widest backdrop-blur-md"
                     placeholder="ENTER CODE"
                   />

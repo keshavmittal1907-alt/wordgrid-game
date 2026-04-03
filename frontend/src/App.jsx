@@ -22,6 +22,15 @@ function App() {
   const { width, height } = useWindowSize();
 
   useEffect(() => {
+    // Check for invite links
+    const params = new URLSearchParams(window.location.search);
+    const inviteRoom = params.get('room');
+    if (inviteRoom) {
+      setJoinMode('join');
+      setRoomId(inviteRoom.toUpperCase());
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+
     socket.on('room_update', (roomState) => {
       setRoom(roomState);
     });
@@ -257,6 +266,32 @@ function App() {
                   ? "Choose your team and wait for the match to begin. An Explainer will be randomly selected for your team each turn."
                   : "Hang tight! Team members are being assigned. The host will start the game soon."}
               </p>
+
+              <div className="flex gap-4 justify-center mb-8w-full max-w-sm mx-auto mb-10">
+                 <div className="glass-panel px-6 py-4 rounded-2xl flex items-center justify-between border-blue-500/30 bg-blue-500/5 w-full shadow-lg shadow-blue-900/10">
+                   <div className="text-left">
+                     <div className="text-[10px] text-blue-400 font-bold tracking-widest uppercase mb-1">Game Code</div>
+                     <div className="text-3xl font-mono font-black tracking-widest text-white">{room.id}</div>
+                   </div>
+                   <button 
+                     onClick={() => {
+                        navigator.clipboard.writeText(`${window.location.origin}?room=${room.id}`);
+                        const btn = document.getElementById('copy-btn');
+                        if (btn) {
+                          btn.innerHTML = 'COPIED!';
+                          btn.classList.add('bg-emerald-500');
+                          setTimeout(() => {
+                            btn.innerHTML = 'COPY LINK';
+                            btn.classList.remove('bg-emerald-500');
+                          }, 2000);
+                        }
+                     }}
+                     className="bg-blue-600 hover:bg-blue-500 text-white px-4 py-3 rounded-xl transition-all shadow-lg shadow-blue-500/20 text-xs font-bold tracking-wider flex items-center justify-center min-w-[110px]"
+                   >
+                     <span id="copy-btn">COPY LINK</span>
+                   </button>
+                 </div>
+              </div>
               
               {isHost ? (
                 <div className="flex flex-col items-center w-full max-w-md">
